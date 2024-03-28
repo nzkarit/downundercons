@@ -9,4 +9,4 @@ group :jekyll_plugins do
   gem 'jekyll-sass-converter'
 end
 
-gem "no-style-please"
+#gem "no-style-please"

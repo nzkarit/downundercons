@@ -7,7 +7,7 @@ These are a list of hacker cons and hacker meetups in the NZ and Aussie Area. If
 
 This will only include cons and events that have a public date (and is in the future).
 
-I am also looking at getting this onto its own domain and a public repo so people can do Pull Requests.
+If you would like to make an update you can create a pull request on the [GitHub Repository](https://github.com/nzkarit/downundercons).
 
 ## 2024
 

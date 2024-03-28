@@ -5,7 +5,7 @@ description: >-
 baseurl: "" 
 url: "https://www.downundercons.nz" 
 
-theme: no-style-please
+#theme: no-style-please
 
 theme_config:
   appearance: "auto" # can be "light", "dark" or "auto"
