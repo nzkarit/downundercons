@@ -1,0 +1,28 @@
+title: Downunder Cons
+email: cons@downundercons.nz
+description: >- 
+  The upcoming Hacker Cons and Meetups in the Aussie and NZ area.
+baseurl: "" 
+url: "https://www.downundercons.nz" 
+
+theme: no-style-please
+
+theme_config:
+  appearance: "auto" # can be "light", "dark" or "auto"
+  back_home_text: ".." # customize text for homepage link in post layout
+  date_format: "%Y-%m-%d" # customize how date is formatted
+  show_description: false # show blog description in home page
+
+sass:
+  style: :compressed
+
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+timezone: Pacific/Auckland
+
+include: [_headers]
+
+locale: en_NZ
