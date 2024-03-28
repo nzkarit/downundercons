@@ -34,3 +34,6 @@ If you would like to make an update you can create a pull request on the [GitHub
 | Gold Coast | SecTalks | Monthly | [URL](https://www.meetup.com/sectalks-goldcoast/) |
 | Hamilton | ISIG | Last Thursday | [URL](https://isig.org.nz/) |
 | Wellington | ISIG | Last Thursday | [URL](https://isig.org.nz/) |
+
+## People
+This page has been setup by [Karit](https://www.karit.nz/),
