@@ -11,16 +11,16 @@ If you would like to make an update you can create a pull request on the [GitHub
 
 ## 2024
 
-| Name | URL | Date | CFP Open | CFP Close | Ticket On Sale |
-| ---- | --- | ---- | -------- | --------- | -------------- |
-| ComfyCon | [URL](https://au.comfycon.rocks/) | 6 - 7 April | Closed | Closed | N/A |
-| BSides Adelaide | [URL](https://bsidesadelaide.com.au/) | 17 - 18 May | Closed | Closed | Now |
-| BSides Brisbane | [URL](https://bsidesbrisbane.com/) | 23 July | Open | 20 April | Now |
-| ROCCON | [URL](https://www.realmsofcyber.com/) | 20 August | TBC | TBC | TBC |
-| AppSec Auckland | [URL](https://appsec.org.nz/conference/) | 3 - 6 September | 22 January | 30 June | 1 April |
-| BSidesCBR | [URL](https://www.bsidesau.com.au/) | 26 - 28 September | 1 April | 30 June | Now |
-| BSides Sydney | [URL](https://bsides.sydney) | 9 November | Open | 30 June | Now |
-| ChCon | [URL](https://2024.chcon.nz/) | 21 - 23 November | 1 April | TBC | 31 July |
+| Name | URL | Date | Location | CFP Open | CFP Close | Ticket On Sale |
+| ---- | --- | ---- | -------- | -------- | --------- | -------------- |
+| ComfyCon | [URL](https://au.comfycon.rocks/) | 6 - 7 April | Online (AEDT) | Closed | Closed | N/A |
+| BSides Adelaide | [URL](https://bsidesadelaide.com.au/) | 17 - 18 May | Adelaide, AU | Closed | Closed | Now |
+| BSides Brisbane | [URL](https://bsidesbrisbane.com/) | 23 July | Brisbane, AU | Open | 20 April | Now |
+| ROCCON | [URL](https://www.realmsofcyber.com/) | 20 August | Brisbane, AU | TBC | TBC | TBC |
+| AppSec Auckland | [URL](https://appsec.org.nz/conference/) | 3 - 6 September | Auckland, NZ | 22 January | 30 June | 1 April |
+| BSidesCBR | [URL](https://www.bsidesau.com.au/) | 26 - 28 September | Canberra, AU | 1 April | 30 June | Now |
+| BSides Sydney | [URL](https://bsides.sydney) | 9 November | Sydney, AU | Open | 30 June | Now |
+| ChCon | [URL](https://2024.chcon.nz/) | 21 - 23 November | Christchurch, NZ | 1 April | TBC | 31 July |
 
 ## Meetups
 
