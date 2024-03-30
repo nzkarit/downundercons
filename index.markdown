@@ -19,8 +19,8 @@ If you would like to make an update you can create a pull request on the [GitHub
 | ComfyCon | [URL](https://au.comfycon.rocks/) | 6 - 7 April | Online (AEDT) | Closed | Closed | N/A |
 | BrisSEC | [URL](https://aisasecuritydays.com.au/brissec) | 19 April | Brisbane, AU | Closed | Closed | Now |
 | CyberWest Summit | [URL](https://www.cyberwestsummit.com.au/) | 15 - 16 May | Perth, AU | Closed | Closed | Now |
-| BSides Adelaide | [URL](https://bsidesadelaide.com.au/) | 17 - 18 May | Adelaide, AU | Closed | Closed | Now |
-| AusCERT | [URL](https://www.cyberwestsummit.com.au/) | 15 - 16 May | Gold Coast, AU | Closed | Closed | Now |
+| BSides Adelaide | [URL](https://bsidesadelaide.com.au/) | 16 - 18 May | Adelaide, AU | Closed | Closed | Now |
+| AusCERT | [URL](https://conference.auscert.org.au/) | 21 - 24 May | Gold Coast, AU | Closed | Closed | Now |
 | CyberSecurity for Government | [URL](https://cybersecgov.co/) | 5 - 7 June | Canberra, AU | Unknown | Unknown | Now |
 | SydneySec | [URL](https://aisasecuritydays.com.au/sydneysec) | 25 June | Sydney, AU | Open | 12 April | Now |
 | BSides Brisbane | [URL](https://bsidesbrisbane.com/) | 23 July | Brisbane, AU | Open | 20 April | Now |
