@@ -38,10 +38,11 @@ If you would like to make an update you can create a pull request on the [GitHub
 | ---- | ---- | -------- | --- |
 | Auckland | ISIG | Last Tuesday | [URL](https://isig.org.nz/) |
 | Brisbane | SecTalks | Monthly | [URL](https://www.meetup.com/SecTalks-Brisbane/) |
+| Brisbane | OWASP | Monthly | [URL](https://www.meetup.com/brisbane-owasp-meetup-group/) |
 | Dunedin | ISIG | Last Thursday | [URL](https://isig.org.nz/) |
 | Canberra | CSides | Monthly | [URL](https://www.bsidesau.com.au/csides.html) |
 | Christchurch | ISIG | Last Wednesday | [URL](https://www.meetup.com/isig-christchurch-nz/) |
-| Gold Coast | SecTalks | Monthly | [URL](https://www.meetup.com/sectalks-goldcoast/) |
+| Gold Coast | SecTalks | First Tuesday | [URL](https://www.meetup.com/sectalks-goldcoast/) |
 | Hamilton | ISIG | Last Thursday | [URL](https://isig.org.nz/) |
 | Wellington | ISIG | Last Thursday | [URL](https://isig.org.nz/) |
 
