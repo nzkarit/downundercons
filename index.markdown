@@ -17,13 +17,20 @@ If you would like to make an update you can create a pull request on the [GitHub
 | Name | URL | Date | Location | CFP Open | CFP Close | Ticket On Sale |
 | ---- | --- | ---- | -------- | -------- | --------- | -------------- |
 | ComfyCon | [URL](https://au.comfycon.rocks/) | 6 - 7 April | Online (AEDT) | Closed | Closed | N/A |
+| BrisSEC | [URL](https://aisasecuritydays.com.au/brissec) | 19 April | Brisbane, AU | Closed | Closed | Now |
+| CyberWest Summit | [URL](https://www.cyberwestsummit.com.au/) | 15 - 16 May | Perth, AU | Closed | Closed | Now |
 | BSides Adelaide | [URL](https://bsidesadelaide.com.au/) | 17 - 18 May | Adelaide, AU | Closed | Closed | Now |
+| AusCERT | [URL](https://www.cyberwestsummit.com.au/) | 15 - 16 May | Gold Coast, AU | Closed | Closed | Now |
+| SydneySec | [URL](https://aisasecuritydays.com.au/sydneysec) | 25 June | Sydney, AU | Open | 12 April | Now |
 | BSides Brisbane | [URL](https://bsidesbrisbane.com/) | 23 July | Brisbane, AU | Open | 20 April | Now |
 | ROCCON | [URL](https://www.realmsofcyber.com/) | 20 August | Brisbane, AU | TBC | TBC | TBC |
+| AuSEC | [URL](https://publicsectornetwork.com/event/australian-security-summit-ausec/) | 29 August | Canberra, AU | Unknown | Unknown | TBC |
 | AppSec Auckland | [URL](https://appsec.org.nz/conference/) | 3 - 6 September | Auckland, NZ | 22 January | 30 June | 1 April |
 | BSides Canberra | [URL](https://www.bsidesau.com.au/) | 26 - 28 September | Canberra, AU | 1 April | 30 June | Now |
+| Hack Sydney | [URL](https://www.hack.sydney/) | 7 November | Sydney, AU | Open | 30 April | Now |
 | BSides Sydney | [URL](https://bsides.sydney) | 9 November | Sydney, AU | Open | 30 June | Now |
 | ChCon | [URL](https://2024.chcon.nz/) | 21 - 23 November | Christchurch, NZ | 1 April | TBC | 31 July |
+| AISA CyberCon | [URL](https://conference.aisa.org.au/QuickEventWebsitePortal/2024-australian-cyber-conference-melbourne/cfs-site) | 26 - 28 November | Melbourne, AU | Open | 28 May | Unknown |
 
 ## Meetups
 
