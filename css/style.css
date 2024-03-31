@@ -1,0 +1,74 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,400..900;1,400..900&display=swap');
+
+/* ------------------------- 
+  CSS variables and core setup  
+------------------------- */
+
+:root {
+  --typeface-main: "Montserrat", sans-serif;
+
+  --font-weight-normal: 450;
+  --font-weight-bod: 700;
+
+  --line-height-main: 1.5;
+
+  --font-size-main: .96rem; /* 16px */
+}
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  height: 100%;
+}
+
+body {
+  font-family: var(--typeface-main);
+  font-weight: var(--font-weight-normal);
+
+  font-size: var(--font-size-main);
+
+  line-height: var(--line-height-main);
+
+  min-height: 100%;
+  display: grid;
+  grid-template-rows: 1fr auto;
+
+  -webkit-font-smoothing: antialiased;
+}
+
+/* -------------------------
+  Layout
+------------------------- */
+
+.page-content {
+  margin: 0 auto;
+  padding: 1em;
+  max-width: 800px;
+}
+
+/* -------------------------
+  Table
+------------------------- */
+
+table {
+  text-align: left;
+  border-spacing: 0;
+}
+
+th,
+td {
+  vertical-align: top;
+  padding: .25em .55em;
+}
+
+tr:nth-child(even) {
+  background-color: #f1f1f1;
+}
+
+thead th {
+  border-bottom: 2px solid #808080;
+}
