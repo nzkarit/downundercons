@@ -3,14 +3,7 @@ layout: home
 title: Downunder Cons
 ---
 
-These are a list of hacker cons and hacker meetups in the NZ and Aussie Area. If something is not listed please let me know, I can't be across all the hackers cons and hackers events in my head. My apologies if I have missed any. Email [cons]@[this domain]
-
-This will only include cons and events:
-* That have a public date (and is in the future).
-* Where the primary focus is Hacking, InfoSec, etc.
-* Online only cons where the focus and timezone is NZ and Aussie.
-
-If you would like to make an update you can create a pull request on the [GitHub Repository](https://github.com/nzkarit/downundercons).
+These are a list of hacker/infosec cons and meetups in the NZ and Aussie Area.
 
 ## 2024
 
@@ -37,15 +30,15 @@ If you would like to make an update you can create a pull request on the [GitHub
 
 | City | Name | Schedule |
 | ---- | ---- | -------- |
-| Auckland | [ISIG](https://isig.org.nz/) | Last Tuesday |
-| Brisbane | [SecTalks](https://www.meetup.com/SecTalks-Brisbane/) | Monthly |
-| Brisbane | [OWASP](https://www.meetup.com/brisbane-owasp-meetup-group/) | Monthly |
-| Dunedin | [ISIG](https://isig.org.nz/) | Last Thursday |
-| Canberra | [CSides](https://www.bsidesau.com.au/csides.html) | Monthly |
-| Christchurch | [ISIG](https://www.meetup.com/isig-christchurch-nz/) | Last Wednesday |
-| Gold Coast | [SecTalks](https://www.meetup.com/sectalks-goldcoast/) | First Tuesday |
-| Hamilton | [ISIG](https://isig.org.nz/) | Last Thursday |
-| Wellington | [ISIG](https://isig.org.nz/) | Last Thursday |
+| Auckland, NZ | [ISIG](https://isig.org.nz/) | Last Tuesday |
+| Brisbane, AU | [OWASP](https://www.meetup.com/brisbane-owasp-meetup-group/) | Monthly |
+| Brisbane, AU | [SecTalks](https://www.meetup.com/SecTalks-Brisbane/) | Monthly |
+| Canberra, AU | [CSides](https://www.bsidesau.com.au/csides.html) | Monthly |
+| Christchurch, NZ | [ISIG](https://www.meetup.com/isig-christchurch-nz/) | Last Wednesday |
+| Dunedin, NZ | [ISIG](https://isig.org.nz/) | Last Thursday |
+| Gold Coast, AU | [SecTalks](https://www.meetup.com/sectalks-goldcoast/) | First Tuesday |
+| Hamilton, NZ | [ISIG](https://isig.org.nz/) | Last Thursday |
+| Wellington, NZ | [ISIG](https://isig.org.nz/) | Last Thursday |
 
 ## People
 This page has been setup by [Karit](https://www.karit.nz/).
@@ -53,3 +46,14 @@ This page has been setup by [Karit](https://www.karit.nz/).
 Contributers:
 * nzdjb
 * 6mile
+* praesongprasit
+
+## Notes
+These are a list of hacker cons and hacker meetups in the NZ and Aussie Area. If something is not listed please let me know, I can't be across all the hackers cons and hackers events in my head. My apologies if I have missed any. Email [cons]@[this domain]
+
+This will only include cons and events:
+* That have a public date (and is in the future).
+* Where the primary focus is Hacking, InfoSec, etc.
+* Online only cons where the focus and timezone is NZ and Aussie.
+
+If you would like to make an update you can create a pull request on the [GitHub Repository](https://github.com/nzkarit/downundercons).
