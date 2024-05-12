@@ -9,8 +9,6 @@ These are a list of hacker/infosec cons and meetups in the NZ and Aussie Area.
 
 | Name | Date | Location | CFP Open | CFP Close | Ticket On Sale |
 | ---- | ---- | -------- | -------- | --------- | -------------- |
-| [ComfyCon](https://au.comfycon.rocks/) | 6 - 7 April | Online (AEDT) | Closed | Closed | N/A |
-| [BrisSEC](https://aisasecuritydays.com.au/brissec) | 19 April | Brisbane, AU | Closed | Closed | Now |
 | [CyberWest Summit](https://www.cyberwestsummit.com.au/) | 15 - 16 May | Perth, AU | Closed | Closed | Now |
 | [BSides Adelaide](https://bsidesadelaide.com.au/) | 16 - 18 May | Adelaide, AU | Closed | Closed | Now |
 | [AusCERT](https://conference.auscert.org.au/) | 21 - 24 May | Gold Coast, AU | Closed | Closed | Now |
@@ -23,6 +21,7 @@ These are a list of hacker/infosec cons and meetups in the NZ and Aussie Area.
 | [BSides Canberra](https://www.bsidesau.com.au/) | 26 - 28 September | Canberra, AU | 1 April | 30 June | Now |
 | [Hack Sydney](https://www.hack.sydney/) | 7 November | Sydney, AU | Open | 30 April | Now |
 | [BSides Sydney](https://bsides.sydney) | 9 November | Sydney, AU | Open | 30 June | Now |
+| [BSides Melbourne](https://www.bsidesmelbourne.com/) | 15-17 November | Melbourne, AU | TBC | TBC | TBC|
 | [ChCon](https://2024.chcon.nz/) | 21 - 23 November | Christchurch, NZ | 1 April | TBC | 31 July |
 | [AISA CyberCon](https://conference.aisa.org.au/QuickEventWebsitePortal/2024-australian-cyber-conference-melbourne/cfs-site) | 26 - 28 November | Melbourne, AU | Open | 28 May | Unknown |
 
