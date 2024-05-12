@@ -19,9 +19,10 @@ These are a list of hacker/infosec cons and meetups in the NZ and Aussie Area.
 | [AuSEC](https://publicsectornetwork.com/event/australian-security-summit-ausec/) | 29 August | Canberra, AU | Unknown | Unknown | TBC |
 | [AppSec Auckland](https://appsec.org.nz/conference/) | 3 - 6 September | Auckland, NZ | 22 January | 30 June | 1 April |
 | [BSides Canberra](https://www.bsidesau.com.au/) | 26 - 28 September | Canberra, AU | 1 April | 30 June | Now |
+| [NZITF](https://nzitf.org.nz/conference-details) 14 - 15 October | Wellington, NZ | Open | 1 July | Now |
 | [Hack Sydney](https://www.hack.sydney/) | 7 November | Sydney, AU | Open | 30 April | Now |
 | [BSides Sydney](https://bsides.sydney) | 9 November | Sydney, AU | Open | 30 June | Now |
-| [BSides Melbourne](https://www.bsidesmelbourne.com/) | 15-17 November | Melbourne, AU | TBC | TBC | TBC|
+| [BSides Melbourne](https://www.bsidesmelbourne.com/) | 15 - 17 November | Melbourne, AU | TBC | TBC | TBC|
 | [ChCon](https://2024.chcon.nz/) | 21 - 23 November | Christchurch, NZ | 1 April | 31 August | 31 July |
 | [AISA CyberCon](https://conference.aisa.org.au/QuickEventWebsitePortal/2024-australian-cyber-conference-melbourne/cfs-site) | 26 - 28 November | Melbourne, AU | Open | 28 May | Unknown |
 
