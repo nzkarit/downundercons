@@ -27,7 +27,7 @@ These are a list of hacker/infosec cons and meetups in the NZ and Aussie Area.
 
 | Name | Date | Location | CFP Open | CFP Close | Ticket On Sale |
 | ---- | ---- | -------- | -------- | --------- | -------------- |
-| [Kawiicon](https://kawaiicon.org/) | 6 - 8 Novemeber | Wellington, NZ | TBC | TBC | TBC |
+| [Kawaiicon](https://kawaiicon.org/) | 6 - 8 Novemeber | Wellington, NZ | TBC | TBC | TBC |
 
 ## Meetups
 
