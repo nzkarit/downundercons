@@ -24,6 +24,7 @@ These are a list of hacker/infosec cons and meetups in the NZ and Aussie Area.
 | [AISA CyberCon](https://conference.aisa.org.au/QuickEventWebsitePortal/2024-australian-cyber-conference-melbourne/cfs-site) | 26 - 28 November | Melbourne, AU | Open | 28 May | Unknown |
 
 ## 2025
+
 | Name | Date | Location | CFP Open | CFP Close | Ticket On Sale |
 | ---- | ---- | -------- | -------- | --------- | -------------- |
 | [Kawiicon](https://kawaiicon.org/) | 6 - 8 Novemeber | Wellington, NZ | TBC | TBC | TBC |
