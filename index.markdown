@@ -12,7 +12,7 @@ These are a list of hacker/infosec cons and meetups in the NZ and Aussie Area.
 | [AuSEC](https://publicsectornetwork.com/event/australian-security-summit-ausec/) | 29 August | Canberra, AU | Unknown | Unknown | Now |
 | [AppSec Auckland](https://appsec.org.nz/conference/) | 3 - 6 September | Auckland, NZ | 22 January | 30 June | 1 April |
 | [BSides Canberra](https://www.bsidesau.com.au/) | 26 - 28 September | Canberra, AU | 1 April | 30 June | Now |
-| [AHECS 2024 Cybersecurity Summit](https://www.ahecs.edu.au/events/ahecs-2024-cybersecurity-summit/) | 1 - 4 October | Canberra, AU | Unkown | Unkown | Now |
+| [AHECS 2024 Cybersecurity Summit](https://www.ahecs.edu.au/events/ahecs-2024-cybersecurity-summit/) | 1 - 4 October | Canberra, AU | Unknown | Unknown | Now |
 | [NZITF](https://nzitf.org.nz/conference-details) | 14 - 15 October | Wellington, NZ | Open | 1 July | Now |
 | [0xCC](https://0xcc.sh/) | 1 - 2 November | Melbourne, AU | TBC | TBC | TBC |
 | [RooCon](https://x.com/RooCon_AU) | 5 November | Sydney, AU | Open | 9 August | TBC |
