@@ -41,7 +41,7 @@ These are a list of hacker/infosec cons and meetups in the NZ and Aussie Area.
 | Brisbane, AU | [OWASP](https://www.meetup.com/brisbane-owasp-meetup-group/) | Monthly |
 | Brisbane, AU | [SecTalks](https://www.meetup.com/SecTalks-Brisbane/) | Monthly |
 | Canberra, AU | [CSides](https://www.bsidesau.com.au/csides.html) | Monthly |
-| Christchurch, NZ | [ISIG](https://www.meetup.com/isig-christchurch-nz/) | Last Wednesday |
+| Christchurch, NZ | [ISIG](https://www.meetup.com/isig-christchurch-nz/) | Last Tuesday |
 | Dunedin, NZ | [ISIG](https://isig.org.nz/) | Last Thursday |
 | Gold Coast, AU | [SecTalks](https://www.meetup.com/sectalks-goldcoast/) | First Tuesday |
 | Hamilton, NZ | [ISIG](https://isig.org.nz/) | Last Thursday |
