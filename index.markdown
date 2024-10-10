@@ -25,6 +25,7 @@ These are a list of hacker/infosec cons and meetups in the NZ and Aussie Area.
 
 | Name | Date | Location | CFP Open | CFP Close | Ticket On Sale |
 | ---- | ---- | -------- | -------- | --------- | -------------- |
+| [Malware and Reverse Engineering Conference](https://federation.edu.au/icsl/icsl-conferences/mre-2025) | 3 - 4 March | Melbourne, AU | TBC | TBC | TBC |
 | [CrikeyCon](https://crikeycon.com/) | 22 March | Brisbane, AU | TBC | TBC | TBC |
 | [BSides Ballarat](https://www.linkedin.com/posts/dr-paul-black-20b615a0_bsides-ballarat-will-be-held-on-saturday-activity-7248840033477033984-bg4I/) | 3 May | Ballarat, AU | TBC | TBC | TBC |
 | [AppSec Auckland](https://appsec.org.nz/conference/) | 1 - 5 September | Auckland, NZ | TBC | TBC | TBC |
@@ -63,3 +64,5 @@ This will only include cons and events:
 * Online only cons where the focus and timezone is NZ and Aussie.
 
 If you would like to make an update you can create a pull request on the [GitHub Repository](https://github.com/nzkarit/downundercons).
+
+Being listed on this site does not indicate endrosement, guarrantee of quality, etc. You will need to do your own research to know if it is a good conference and good conference for you.
