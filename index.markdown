@@ -9,13 +9,6 @@ These are a list of hacker/infosec cons and meetups in the NZ and Aussie Area.
 
 | Name | Date | Location | CFP Open | CFP Close | Ticket On Sale |
 | ---- | ---- | -------- | -------- | --------- | -------------- |
-| [BSides Goldcoast](https://bsidesgoldie.com/) | 2 November | Gold Coast, AU | Closed | 30 August | TBC |
-| [RooCon](https://x.com/RooCon_AU) | 5 November | Sydney, AU | Open | 9 August | TBC |
-| [Hack Sydney](https://www.hack.sydney/) | 7 November | Sydney, AU | Closed| 30 April | Now |
-| [Purplecon](https://purplecon.org/) | 8 November | Sydney, AU | Closed| 1 September | TBC |
-| [BSides Sydney](https://bsides.sydney) | 9 November | Sydney, AU | Closed | 30 June | Now |
-| [Kākācon](https://www.kākācon.nz/) | 9 November | Wellington, NZ | N/A | N/A | Just turn up |
-| [2024 NZ ICS/OT Cyber Summit](https://icscyber.org.nz/) | 12 November | New Plymouth, NZ | Open | TBC | Now |
 | [BSides Melbourne](https://www.bsidesmelbourne.com/) | 15 - 17 November | Melbourne, AU | 7 June | 31 July | TBC |
 | [ChCon](https://2024.chcon.nz/) | 21 - 23 November | Christchurch, NZ | 1 April | 31 August | 31 July |
 | [AISA CyberCon](https://conference.aisa.org.au/QuickEventWebsitePortal/2024-australian-cyber-conference-melbourne/cfs-site) | 26 - 28 November | Melbourne, AU | Open | 28 May | Unknown |
