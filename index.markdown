@@ -37,6 +37,7 @@ These are a list of hacker/infosec cons and meetups in the NZ and Aussie Area.
 | Dunedin, NZ | [ISIG](https://isig.org.nz/) | Last Thursday |
 | Gold Coast, AU | [SecTalks](https://www.meetup.com/sectalks-goldcoast/) | First Tuesday |
 | Hamilton, NZ | [ISIG](https://isig.org.nz/) | Last Thursday |
+| Hawke’s Bay, NZ | [ISIG](https://isig.org.nz/) | Monthly |
 | Wellington, NZ | [ISIG](https://isig.org.nz/) | Last Thursday |
 
 ## People
