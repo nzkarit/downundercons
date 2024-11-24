@@ -17,7 +17,8 @@ These are a list of hacker/infosec cons and meetups in the NZ and Aussie Area.
 | ---- | ---- | -------- | -------- | --------- | -------------- |
 | [Malware and Reverse Engineering Conference](https://federation.edu.au/icsl/icsl-conferences/mre-2025) | 3 - 4 March | Melbourne, AU | TBC | TBC | TBC |
 | [CrikeyCon](https://crikeycon.com/) | 22 March | Brisbane, AU | Open | 28 Jan | Now |
-| [BSides Ballarat](https://www.linkedin.com/posts/dr-paul-black-20b615a0_bsides-ballarat-will-be-held-on-saturday-activity-7248840033477033984-bg4I/) | 3 May | Ballarat, AU | TBC | TBC | TBC |
+| [BSides Ballarat](https://federation.edu.au/icsl/icsl-conferences/bsides-ballarat) | 3 May | Ballarat, AU | TBC | TBC | TBC |
+| [BSides Adelaide](https://www.bsidesadelaide.com.au/) | 12 - 13 May | Adelaide, AU | TBC | TBC | TBC |
 | [NZITF](https://nzitf.org.nz/conference-details) | 21 - 22 July | Wellington, NZ | Open | TBC | TBC |
 | [OWASP Global AppSec Auckland](https://appsec.org.nz/conference/) | 1 - 5 September | Auckland, NZ | TBC | TBC | TBC |
 | [BSides Canberra](https://www.bsidesau.com.au/) | 25 - 27 September | Canberra, AU | TBC | TBC | TBC |
