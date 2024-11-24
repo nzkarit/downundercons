@@ -9,8 +9,6 @@ These are a list of hacker/infosec cons and meetups in the NZ and Aussie Area.
 
 | Name | Date | Location | CFP Open | CFP Close | Ticket On Sale |
 | ---- | ---- | -------- | -------- | --------- | -------------- |
-| [BSides Melbourne](https://www.bsidesmelbourne.com/) | 15 - 17 November | Melbourne, AU | 7 June | 31 July | TBC |
-| [ChCon](https://2024.chcon.nz/) | 21 - 23 November | Christchurch, NZ | 1 April | 31 August | 31 July |
 | [AISA CyberCon](https://conference.aisa.org.au/QuickEventWebsitePortal/2024-australian-cyber-conference-melbourne/cfs-site) | 26 - 28 November | Melbourne, AU | Open | 28 May | Unknown |
 
 ## 2025
@@ -23,7 +21,8 @@ These are a list of hacker/infosec cons and meetups in the NZ and Aussie Area.
 | [NZITF](https://nzitf.org.nz/conference-details) | 21 - 22 July | Wellington, NZ | Open | TBC | TBC |
 | [OWASP Global AppSec Auckland](https://appsec.org.nz/conference/) | 1 - 5 September | Auckland, NZ | TBC | TBC | TBC |
 | [BSides Canberra](https://www.bsidesau.com.au/) | 25 - 27 September | Canberra, AU | TBC | TBC | TBC |
-| [Kākācon](https://www.kākācon.nz/) | 5 November | Wellington, NZ | N/A | N/A | Just turn up |
+| [ChCon](https://2025.chcon.nz/) | 30 Ocotober - 1 November | Christchurch, NZ | TBC | TBC | TBC |
+| [Kākācon](https://www.kākācon.nz/) | 6 November | Wellington, NZ | N/A | N/A | Just turn up |
 | [Kawaiicon](https://kawaiicon.org/) | 6 - 8 November | Wellington, NZ | TBC | TBC | TBC |
 
 ## Meetups
