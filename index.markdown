@@ -5,12 +5,6 @@ title: Downunder Cons
 
 These are a list of hacker/infosec cons and meetups in the NZ and Aussie Area.
 
-## 2024
-
-| Name | Date | Location | CFP Open | CFP Close | Ticket On Sale |
-| ---- | ---- | -------- | -------- | --------- | -------------- |
-| [AISA CyberCon](https://conference.aisa.org.au/QuickEventWebsitePortal/2024-australian-cyber-conference-melbourne/cfs-site) | 26 - 28 November | Melbourne, AU | Open | 28 May | Unknown |
-
 ## 2025
 
 | Name | Date | Location | CFP Open | CFP Close | Ticket On Sale |
@@ -19,6 +13,7 @@ These are a list of hacker/infosec cons and meetups in the NZ and Aussie Area.
 | [Malware and Reverse Engineering Conference](https://federation.edu.au/icsl/icsl-conferences/mre-2025) | 3 - 4 March | Melbourne, AU | TBC | TBC | TBC |
 | [AISA Australian Cyber Conference](https://canberra2025.cyberconference.com.au/) | 17 - 19 March | Canberra, AU | Closed | Closed | Now |
 | [CrikeyCon](https://crikeycon.com/) | 22 March | Brisbane, AU | Open | 28 Jan | Now |
+| [BrisSec](https://aisasecuritydays.com.au/brissec) | 30 April | Brisbane, AU | Open | 14 Feb | Now |
 | [BSides Ballarat](https://federation.edu.au/icsl/icsl-conferences/bsides-ballarat) | 3 May | Ballarat, AU | TBC | TBC | TBC |
 | [BSides Adelaide](https://www.bsidesadelaide.com.au/) | 12 - 13 May | Adelaide, AU | TBC | TBC | TBC |
 | [AUSCERT](https://conference.auscert.org.au/) | 20 - 23 May | Gold Coast, AU | Open | 28 Jan | TBC |
