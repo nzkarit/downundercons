@@ -17,6 +17,7 @@ These are a list of hacker/infosec cons and meetups in the NZ and Aussie Area.
 | [BSides Ballarat](https://federation.edu.au/icsl/icsl-conferences/bsides-ballarat) | 3 May | Ballarat, AU | TBC | TBC | TBC |
 | [BSides Adelaide](https://www.bsidesadelaide.com.au/) | 12 - 13 May | Adelaide, AU | TBC | TBC | TBC |
 | [AUSCERT](https://conference.auscert.org.au/) | 20 - 23 May | Gold Coast, AU | Open | 28 Jan | TBC |
+| [BSides Brisbane](https://bsidesbrisbane.com/) | 12 July | Brisbane, AU | Open | 16 May | Now |
 | [NZITF](https://nzitf.org.nz/conference-details) | 21 - 22 July | Wellington, NZ | Open | TBC | TBC |
 | [ROCCON](https://www.realmsofcyber.com/) | August | Brisbane, AU | TBC | TBC | TBC |
 | [OWASP Global AppSec Auckland](https://appsec.org.nz/conference/) | 1 - 5 September | Auckland, NZ | TBC | TBC | TBC |
