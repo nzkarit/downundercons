@@ -18,7 +18,7 @@ These are a list of hacker/infosec cons and meetups in the NZ and Aussie Area.
 | [BSides Adelaide](https://www.bsidesadelaide.com.au/) | 12 - 13 May | Adelaide, AU | TBC | TBC | TBC |
 | [AUSCERT](https://conference.auscert.org.au/) | 20 - 23 May | Gold Coast, AU | Open | 28 Jan | TBC |
 | [Sun Con](https://sunconqld.com/) | 24 May | Sunshine Coast, AU | Closed | Closed | Open |
-| [0xCC](https://0xcc.sh/) | 13 - 14 June | Melbourne, AU | TBC | TBC | TBC |
+| [0xCC](https://0xcc.sh/) | 13 - 14 June | Melbourne, AU | Closed | Closed | 26 March |
 | [BSides Brisbane](https://bsidesbrisbane.com/) | 12 July | Brisbane, AU | Open | 16 May | Now |
 | [NZITF](https://nzitf.org.nz/conference-details) | 21 - 22 July | Wellington, NZ | Open | TBC | TBC |
 | [ROCCON](https://www.realmsofcyber.com/) | August | Brisbane, AU | TBC | TBC | TBC |
