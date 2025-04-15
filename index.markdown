@@ -9,23 +9,19 @@ These are a list of hacker/infosec cons and meetups in the NZ and Aussie Area.
 
 | Name | Date | Location | CFP Open | CFP Close | Ticket On Sale |
 | ---- | ---- | -------- | -------- | --------- | -------------- |
-| [COSAC APAC 2025](https://cosac.net/apac/) | 25 - 27 Feburary | Melbourne, AU | Closed | Closed | Open |
-| [Malware and Reverse Engineering Conference](https://federation.edu.au/icsl/icsl-conferences/mre-2025) | 3 - 4 March | Melbourne, AU | TBC | TBC | TBC |
-| [AISA Australian Cyber Conference](https://canberra2025.cyberconference.com.au/) | 17 - 19 March | Canberra, AU | Closed | Closed | Now |
-| [CrikeyCon](https://crikeycon.com/) | 22 March | Brisbane, AU | Open | 28 Jan | Now |
 | [BrisSec](https://aisasecuritydays.com.au/brissec) | 30 April | Brisbane, AU | Open | 14 Feb | Now |
-| [BSides Ballarat](https://federation.edu.au/icsl/icsl-conferences/bsides-ballarat) | 3 May | Ballarat, AU | TBC | TBC | TBC |
-| [BSides Adelaide](https://www.bsidesadelaide.com.au/) | 12 - 13 May | Adelaide, AU | TBC | TBC | TBC |
+| [BSides Ballarat](https://federation.edu.au/icsl/icsl-conferences/bsides-ballarat) | 3 May | Ballarat, AU | TBC | Closed | Now |
+| [BSides Adelaide](https://www.bsidesadelaide.com.au/) | 12 - 13 May | Adelaide, AU | TBC | Closed | Now |
 | [AUSCERT](https://conference.auscert.org.au/) | 20 - 23 May | Gold Coast, AU | Open | 28 Jan | TBC |
 | [Sun Con](https://sunconqld.com/) | 24 May | Sunshine Coast, AU | Closed | Closed | Open |
 | [0xCC](https://0xcc.sh/) | 13 - 14 June | Melbourne, AU | Closed | Closed | 26 March |
 | [BSides Brisbane](https://bsidesbrisbane.com/) | 12 July | Brisbane, AU | Open | 16 May | Now |
-| [NZITF](https://nzitf.org.nz/conference-details) | 21 - 22 July | Wellington, NZ | Open | TBC | TBC |
-| [ROCCON](https://www.realmsofcyber.com/) | August | Brisbane, AU | TBC | TBC | TBC |
-| [OWASP Global AppSec Auckland](https://appsec.org.nz/conference/) | 1 - 5 September | Auckland, NZ | TBC | TBC | TBC |
+| [NZITF](https://nzitf.org.nz/conference-details) | 21 - 22 July | Wellington, NZ | Open | 14 April | TBC |
+| [ROCCON](https://www.realmsofcyber.com/) | 28 August | Brisbane, AU | TBC | TBC | Now |
+| [OWASP Global AppSec Auckland](https://appsec.org.nz/conference/) | 1 - 5 September | Auckland, NZ | Open | 30 June | TBC |
 | [BSides Canberra](https://www.bsidesau.com.au/) | 25 - 27 September | Canberra, AU | 1 April | 30 June | Now |
 | [AISA Australian Cyber Conference](https://www.cyberconference.com.au/) | 15 - 17 October | Melbourne, AU | Open | 14 April | Now |
-| [BSides Perth](https://bsidesperth.com.au/) | 18 - 19 October | Perth, AU | TBC | TBC | TBC |
+| [BSides Perth](https://bsidesperth.com.au/) | 18 - 19 October | Perth, AU | TBC | TBC | Now |
 | [ChCon](https://2025.chcon.nz/) | 30 Ocotober - 1 November | Christchurch, NZ | TBC | TBC | TBC |
 | [Kākācon](https://www.kākācon.nz/) | 6 November | Wellington, NZ | N/A | N/A | Just turn up |
 | [Kawaiicon](https://kawaiicon.org/) | 6 - 8 November | Wellington, NZ | TBC | TBC | TBC |
