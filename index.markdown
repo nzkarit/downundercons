@@ -12,9 +12,12 @@ These are a list of hacker/infosec cons and meetups in the NZ and Aussie Area.
 | [BrisSec](https://aisasecuritydays.com.au/brissec) | 30 April | Brisbane, AU | Open | 14 Feb | Now |
 | [BSides Ballarat](https://federation.edu.au/icsl/icsl-conferences/bsides-ballarat) | 3 May | Ballarat, AU | TBC | Closed | Now |
 | [BSides Adelaide](https://www.bsidesadelaide.com.au/) | 12 - 13 May | Adelaide, AU | TBC | Closed | Now |
+| [DarwinSec](https://aisasecuritydays.com.au/darwinsec) | 30 May | Closed | Closed | Open |
 | [AUSCERT](https://conference.auscert.org.au/) | 20 - 23 May | Gold Coast, AU | Open | 28 Jan | TBC |
 | [Sun Con](https://sunconqld.com/) | 24 May | Sunshine Coast, AU | Closed | Closed | Open |
 | [0xCC](https://0xcc.sh/) | 13 - 14 June | Melbourne, AU | Closed | Closed | 26 March |
+| [ComfyCon AU](https://au.comfycon.rocks/) | 21 June | Online | Open | TBC | TBC |
+| [SydneySec](https://aisasecuritydays.com.au/sydneysec) | 3 July | Closed | Closed | Open |
 | [BSides Brisbane](https://bsidesbrisbane.com/) | 12 July | Brisbane, AU | Open | 16 May | Now |
 | [NZITF](https://nzitf.org.nz/conference-details) | 21 - 22 July | Wellington, NZ | Open | 14 April | TBC |
 | [ROCCON](https://www.realmsofcyber.com/) | 28 August | Brisbane, AU | TBC | TBC | Now |
