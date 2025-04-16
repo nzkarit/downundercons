@@ -17,6 +17,7 @@ These are a list of hacker/infosec cons and meetups in the NZ and Aussie Area.
 | [Sun Con](https://sunconqld.com/) | 24 May | Sunshine Coast, AU | Closed | Closed | Open |
 | [0xCC](https://0xcc.sh/) | 13 - 14 June | Melbourne, AU | Closed | Closed | 26 March |
 | [ComfyCon AU](https://au.comfycon.rocks/) | 21 June | Online | Open | TBC | TBC |
+| [SCONES](https://scones.secso.cc/) | Sydney, AU | 27 June | TBC | TBC | TBC |
 | [SydneySec](https://aisasecuritydays.com.au/sydneysec) | 3 July | Closed | Closed | Open |
 | [BSides Brisbane](https://bsidesbrisbane.com/) | 12 July | Brisbane, AU | Open | 16 May | Now |
 | [NZITF](https://nzitf.org.nz/conference-details) | 21 - 22 July | Wellington, NZ | Open | 14 April | TBC |
@@ -32,6 +33,12 @@ These are a list of hacker/infosec cons and meetups in the NZ and Aussie Area.
 | [Kawaiicon](https://kawaiicon.org/) | 6 - 8 November | Wellington, NZ | TBC | TBC | TBC |
 | [BSides Sydney](https://www.bsides.sydney/) | 8 - 9 November | Sydney, AU | TBC | TBC | TBC |
 | [NZ ICS/OT Cyber Summit](https://icscyber.org.nz/) | 26 November | New Plymouth, NZ | Open | TBC | TBC |
+
+## 2026
+
+| Name | Date | Location | CFP Open | CFP Close | Ticket On Sale |
+| ---- | ---- | -------- | -------- | --------- | -------------- |
+| [COSAC APAC](https://cosac.net/apac/) | 24 - 26 Febuary | Melbourne, AU | TBC | TBC | TBC |
 
 ## Meetups
 
