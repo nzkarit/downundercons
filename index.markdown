@@ -25,6 +25,7 @@ These are a list of hacker/infosec cons and meetups in the NZ and Aussie Area.
 | [ChCon](https://2025.chcon.nz/) | 30 Ocotober - 1 November | Christchurch, NZ | TBC | TBC | TBC |
 | [Kākācon](https://www.kākācon.nz/) | 6 November | Wellington, NZ | N/A | N/A | Just turn up |
 | [Kawaiicon](https://kawaiicon.org/) | 6 - 8 November | Wellington, NZ | TBC | TBC | TBC |
+| [BSides Sydney](https://www.bsides.sydney/) | 8 - 9 November | Sydney, AU | TBC | TBC | TBC |
 
 ## Meetups
 
