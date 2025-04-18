@@ -12,7 +12,7 @@ These are a list of hacker/infosec cons and meetups in the NZ and Aussie Area.
 | [BrisSec](https://aisasecuritydays.com.au/brissec) | 30 April | Brisbane, AU | Open | 14 Feb | Now |
 | [BSides Ballarat](https://federation.edu.au/icsl/icsl-conferences/bsides-ballarat) | 3 May | Ballarat, AU | TBC | Closed | Now |
 | [BSides Adelaide](https://www.bsidesadelaide.com.au/) | 12 - 13 May | Adelaide, AU | TBC | Closed | Now |
-| [DarwinSec](https://aisasecuritydays.com.au/darwinsec) | 30 May | Closed | Closed | Open |
+| [DarwinSec](https://aisasecuritydays.com.au/darwinsec) | 30 May | Darwin, AU | Closed | Closed | Open |
 | [AUSCERT](https://conference.auscert.org.au/) | 20 - 23 May | Gold Coast, AU | Open | 28 Jan | TBC |
 | [Sun Con](https://sunconqld.com/) | 24 May | Sunshine Coast, AU | Closed | Closed | Open |
 | [0xCC](https://0xcc.sh/) | 13 - 14 June | Melbourne, AU | Closed | Closed | 26 March |
@@ -27,7 +27,7 @@ These are a list of hacker/infosec cons and meetups in the NZ and Aussie Area.
 | [BSides Canberra](https://www.bsidesau.com.au/) | 25 - 27 September | Canberra, AU | 1 April | 30 June | Now |
 | [AISA Australian Cyber Conference](https://www.cyberconference.com.au/) | 15 - 17 October | Melbourne, AU | Open | 14 April | Now |
 | [BSides Perth](https://bsidesperth.com.au/) | 18 - 19 October | Perth, AU | TBC | TBC | Now |
-| [ChCon](https://2025.chcon.nz/) | 30 Ocotober - 1 November | Christchurch, NZ | TBC | TBC | TBC |
+| [ChCon](https://2025.chcon.nz/) | 29 Ocotober - 31 Ocotober | Christchurch, NZ | TBC | TBC | TBC |
 | [Kākācon](https://www.kākācon.nz/) | 6 November | Wellington, NZ | N/A | N/A | Just turn up |
 | [HCKSYD](https://www.hack.sydney/) | 6 November | Sydney, AU | TBC | TBC | Open |
 | [Kawaiicon](https://kawaiicon.org/) | 6 - 8 November | Wellington, NZ | TBC | TBC | TBC |
