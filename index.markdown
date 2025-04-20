@@ -17,7 +17,7 @@ These are a list of hacker/infosec cons and meetups in the NZ and Aussie Area.
 | [Sun Con](https://sunconqld.com/) | 24 May | Sunshine Coast, AU | Closed | Closed | Open |
 | [0xCC](https://0xcc.sh/) | 13 - 14 June | Melbourne, AU | Closed | Closed | 26 March |
 | [ComfyCon AU](https://au.comfycon.rocks/) | 21 June | Online | Open | TBC | TBC |
-| [SCONES](https://scones.secso.cc/) | Sydney, AU | 27 June | TBC | TBC | TBC |
+| [SCONES](https://scones.secso.cc/) | 27 June | Sydney, AU | TBC | TBC | TBC |
 | [SydneySec](https://aisasecuritydays.com.au/sydneysec) | 3 July | Sydney | Closed | Closed | Open |
 | [BSides Brisbane](https://bsidesbrisbane.com/) | 12 July | Brisbane, AU | Open | 16 May | Now |
 | [NZITF](https://nzitf.org.nz/conference-details) | 21 - 22 July | Wellington, NZ | Open | 14 April | TBC |
