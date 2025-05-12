@@ -53,6 +53,7 @@ These are a list of hacker/infosec cons and meetups in the NZ and Aussie Area.
 | Gold Coast, AU | [SecTalks](https://www.meetup.com/sectalks-goldcoast/) | First Tuesday |
 | Hamilton, NZ | [ISIG](https://isig.org.nz/) | Last Thursday |
 | Hawke’s Bay, NZ | [ISIG](https://isig.org.nz/) | Monthly |
+| Melbourne, AU | [AppSec Aus Melb](https://www.meetup.com/appsec-australia/) | Every 2 Months |
 | Wellington, NZ | [ISIG](https://isig.org.nz/) | Last Thursday |
 
 ## People
