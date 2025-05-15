@@ -32,6 +32,7 @@ These are a list of hacker/infosec cons and meetups in the NZ and Aussie Area.
 | [HCKSYD](https://www.hack.sydney/) | 6 November | Sydney, AU | TBC | TBC | Open |
 | [Kawaiicon](https://kawaiicon.org/) | 6 - 8 November | Wellington, NZ | TBC | TBC | TBC |
 | [BSides Sydney](https://www.bsides.sydney/) | 8 - 9 November | Sydney, AU | Now | 30 July | Now |
+| [BSides Melbourne](https://www.bsidesmelbourne.com/) | 14 - 16 November | Melbourne, NZ | TBC | TBC | TBC |
 | [NZ ICS/OT Cyber Summit](https://icscyber.org.nz/) | 26 November | New Plymouth, NZ | Open | TBC | TBC |
 
 ## 2026
