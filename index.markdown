@@ -12,9 +12,9 @@ These are a list of hacker/infosec cons and meetups in the NZ and Aussie Area.
 | [BrisSec](https://aisasecuritydays.com.au/brissec) | 30 April | Brisbane, AU | Open | 14 Feb | Now |
 | [BSides Ballarat](https://federation.edu.au/icsl/icsl-conferences/bsides-ballarat) | 3 May | Ballarat, AU | TBC | Closed | Now |
 | [BSides Adelaide](https://www.bsidesadelaide.com.au/) | 12 - 13 May | Adelaide, AU | TBC | Closed | Now |
-| [DarwinSec](https://aisasecuritydays.com.au/darwinsec) | 30 May | Darwin, AU | Closed | Closed | Open |
 | [AUSCERT](https://conference.auscert.org.au/) | 20 - 23 May | Gold Coast, AU | Open | 28 Jan | TBC |
 | [Sun Con](https://sunconqld.com/) | 24 May | Sunshine Coast, AU | Closed | Closed | Open |
+| [DarwinSec](https://aisasecuritydays.com.au/darwinsec) | 30 May | Darwin, AU | Closed | Closed | Open |
 | [0xCC](https://0xcc.sh/) | 13 - 14 June | Melbourne, AU | Closed | Closed | 26 March |
 | [ComfyCon AU](https://au.comfycon.rocks/) | 21 June | Online | Open | TBC | TBC |
 | [SCONES](https://scones.secso.cc/) | 27 June | Sydney, AU | TBC | TBC | TBC |
