@@ -21,6 +21,7 @@ These are a list of hacker/infosec cons and meetups in the NZ and Aussie Area.
 | [SydneySec](https://aisasecuritydays.com.au/sydneysec) | 3 July | Sydney | Closed | Closed | Open |
 | [BSides Brisbane](https://bsidesbrisbane.com/) | 12 July | Brisbane, AU | Open | 16 May | Now |
 | [NZITF](https://nzitf.org.nz/conference-details) | 21 - 22 July | Wellington, NZ | Open | 14 April | TBC |
+| [AdelaideSEC](https://aisasecuritydays.com.au/adelaidesec) | 22 August | Adelaide, AU | Open | 6 June | Now |
 | [ROCCON](https://www.realmsofcyber.com/) | 28 August | Brisbane, AU | TBC | TBC | Now |
 | [OWASP New Zealand Day](https://appsec.org.nz/conference/) | 2 - 5 September | Auckland, NZ | Open | 30 June | TBC |
 | [AHECS Cybersecurity Summit](https://www.ahecs.edu.au/events/ahecs-2025-cybersecurity-summit/) | 16 - 18 September | Paramatta, AU | TBC | TBC | TBC |
@@ -34,6 +35,7 @@ These are a list of hacker/infosec cons and meetups in the NZ and Aussie Area.
 | [BSides Sydney](https://www.bsides.sydney/) | 8 - 9 November | Sydney, AU | Now | 30 July | Now |
 | [BSides Melbourne](https://www.bsidesmelbourne.com/) | 14 - 16 November | Melbourne, NZ | TBC | TBC | TBC |
 | [NZ ICS/OT Cyber Summit](https://icscyber.org.nz/) | 26 November | New Plymouth, NZ | Open | TBC | TBC |
+| [PerthSEC](https://aisasecuritydays.com.au/perthsec) | 26 November | Perth, AU | Closed | Closed | Now |
 
 ## 2026
 
