@@ -58,6 +58,8 @@ These are a list of hacker/infosec cons and meetups in the NZ and Aussie Area.
 | Hawke’s Bay, NZ | [ISIG](https://isig.org.nz/) | Monthly |
 | Melbourne, AU | [AppSec Aus Melb](https://www.meetup.com/appsec-australia/) | Every 2 Months |
 | Wellington, NZ | [ISIG](https://isig.org.nz/) | Last Thursday |
+| Wellington, NZ | [HackTheBox NZ](https://www.meetup.com/hack-the-box-meetup-new-zealand/) | Monthly |
+| Auckland, NZ | [HackTheBox NZ](https://www.meetup.com/hack-the-box-meetup-new-zealand/) | Monthly |
 
 ## People
 This page has been setup by [Karit](https://www.karit.nz/).
@@ -66,6 +68,7 @@ Contributers:
 * nzdjb
 * 6mile
 * praesongprasit
+* itz-d0dgy
 
 ## Notes
 These are a list of hacker cons and hacker meetups in the NZ and Aussie Area. If something is not listed please let me know, I can't be across all the hackers cons and hackers events in my head. My apologies if I have missed any. Email [cons]@[this domain]
