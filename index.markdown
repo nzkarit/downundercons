@@ -9,14 +9,6 @@ These are a list of hacker/infosec cons and meetups in the NZ and Aussie Area.
 
 | Name | Date | Location | CFP Open | CFP Close | Ticket On Sale |
 | ---- | ---- | -------- | -------- | --------- | -------------- |
-| [BrisSec](https://aisasecuritydays.com.au/brissec) | 30 April | Brisbane, AU | Open | 14 Feb | Now |
-| [BSides Ballarat](https://federation.edu.au/icsl/icsl-conferences/bsides-ballarat) | 3 May | Ballarat, AU | TBC | Closed | Now |
-| [BSides Adelaide](https://www.bsidesadelaide.com.au/) | 12 - 13 May | Adelaide, AU | TBC | Closed | Now |
-| [AUSCERT](https://conference.auscert.org.au/) | 20 - 23 May | Gold Coast, AU | Open | 28 Jan | TBC |
-| [Sun Con](https://sunconqld.com/) | 24 May | Sunshine Coast, AU | Closed | Closed | Open |
-| [DarwinSec](https://aisasecuritydays.com.au/darwinsec) | 30 May | Darwin, AU | Closed | Closed | Open |
-| [0xCC](https://0xcc.sh/) | 13 - 14 June | Melbourne, AU | Closed | Closed | 26 March |
-| [ComfyCon AU](https://au.comfycon.rocks/) | 21 June | Online | Open | TBC | TBC |
 | [SCONES](https://scones.secso.cc/) | 27 June | Sydney, AU | TBC | TBC | TBC |
 | [SydneySec](https://aisasecuritydays.com.au/sydneysec) | 3 July | Sydney | Closed | Closed | Open |
 | [BSides Brisbane](https://bsidesbrisbane.com/) | 12 July | Brisbane, AU | Open | 16 May | Now |
@@ -29,9 +21,10 @@ These are a list of hacker/infosec cons and meetups in the NZ and Aussie Area.
 | [AISA Australian Cyber Conference](https://www.cyberconference.com.au/) | 15 - 17 October | Melbourne, AU | Open | 14 April | Now |
 | [BSides Perth](https://bsidesperth.com.au/) | 18 - 19 October | Perth, AU | TBC | TBC | Now |
 | [ChCon](https://2025.chcon.nz/) | 29 - 31 Ocotober | Christchurch, NZ | Now | 15 August | 31 July |
+| [RooCon](https://x.com/RooCon_AU) | 5 - 6 November | Sydney, NZ | TBC | TBC | TBC |
 | [Kākācon](https://www.kākācon.nz/) | 6 November | Wellington, NZ | N/A | N/A | Just turn up |
 | [HCKSYD](https://www.hack.sydney/) | 6 November | Sydney, AU | TBC | TBC | Open |
-| [Kawaiicon](https://kawaiicon.org/) | 6 - 8 November | Wellington, NZ | TBC | TBC | TBC |
+| [Kawaiicon](https://kawaiicon.org/) | 6 - 8 November | Wellington, NZ | Open | TBC | TBC |
 | [BSides Sydney](https://www.bsides.sydney/) | 8 - 9 November | Sydney, AU | Now | 30 July | Now |
 | [BSides Melbourne](https://www.bsidesmelbourne.com/) | 14 - 16 November | Melbourne, NZ | TBC | TBC | TBC |
 | [NZ ICS/OT Cyber Summit](https://icscyber.org.nz/) | 26 November | New Plymouth, NZ | Open | TBC | TBC |
@@ -48,6 +41,7 @@ These are a list of hacker/infosec cons and meetups in the NZ and Aussie Area.
 | City | Name | Schedule |
 | ---- | ---- | -------- |
 | Auckland, NZ | [ISIG](https://isig.org.nz/) | Last Tuesday |
+| Auckland, NZ | [HackTheBox NZ](https://www.meetup.com/hack-the-box-meetup-new-zealand/) | Monthly |
 | Brisbane, AU | [OWASP](https://www.meetup.com/brisbane-owasp-meetup-group/) | Monthly |
 | Brisbane, AU | [SecTalks](https://www.meetup.com/SecTalks-Brisbane/) | Monthly |
 | Canberra, AU | [CSides](https://www.bsidesau.com.au/csides.html) | Monthly |
@@ -57,9 +51,12 @@ These are a list of hacker/infosec cons and meetups in the NZ and Aussie Area.
 | Hamilton, NZ | [ISIG](https://isig.org.nz/) | Last Thursday |
 | Hawke’s Bay, NZ | [ISIG](https://isig.org.nz/) | Monthly |
 | Melbourne, AU | [AppSec Aus Melb](https://www.meetup.com/appsec-australia/) | Every 2 Months |
-| Wellington, NZ | [ISIG](https://isig.org.nz/) | Last Thursday |
+| Melbourne, AU | [Melbourne OT Cybersecurity Community Night](https://www.meetup.com/melbourne-ot-cybersecurity/) | Every 2 Months |
+| Melbourne, AU | [Ruxmon Melbourne](https://www.meetup.com/ruxmon/) | Monthly |
 | Wellington, NZ | [HackTheBox NZ](https://www.meetup.com/hack-the-box-meetup-new-zealand/) | Monthly |
-| Auckland, NZ | [HackTheBox NZ](https://www.meetup.com/hack-the-box-meetup-new-zealand/) | Monthly |
+| Wellington, NZ | [ISIG](https://isig.org.nz/) | Last Thursday |
+
+
 
 ## People
 This page has been setup by [Karit](https://www.karit.nz/).
