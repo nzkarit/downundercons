@@ -43,6 +43,7 @@ These are a list of hacker/infosec cons and meetups in the NZ and Aussie Area.
 | ---- | ---- | -------- |
 | Auckland, NZ | [ISIG](https://isig.org.nz/) | Last Tuesday |
 | Auckland, NZ | [HackTheBox NZ](https://www.meetup.com/hack-the-box-meetup-new-zealand/) | Monthly |
+| Ballarat, AU | [Ballarat Cybersecurity Meetup](https://federation.edu.au/icsl/icsl-conferences/cybersecurity-meetup) | Sporadic | 
 | Brisbane, AU | [OWASP](https://www.meetup.com/brisbane-owasp-meetup-group/) | Monthly |
 | Brisbane, AU | [SecTalks](https://www.meetup.com/SecTalks-Brisbane/) | Monthly |
 | Canberra, AU | [CSides](https://www.bsidesau.com.au/csides.html) | Monthly |
