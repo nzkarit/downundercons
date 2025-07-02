@@ -17,6 +17,7 @@ These are a list of hacker/infosec cons and meetups in the NZ and Aussie Area.
 | [ROCCON](https://www.realmsofcyber.com/) | 28 August | Brisbane, AU | TBC | TBC | Now |
 | [OWASP New Zealand Day](https://appsec.org.nz/conference/) | 2 - 5 September | Auckland, NZ | Open | 30 June | TBC |
 | [AHECS Cybersecurity Summit](https://www.ahecs.edu.au/events/ahecs-2025-cybersecurity-summit/) | 16 - 18 September | Paramatta, AU | TBC | TBC | TBC |
+| [ComfyCon](https://au.comfycon.rocks/) | 21 September | Online | TBC | TBC | TBC |
 | [BSides Canberra](https://www.bsidesau.com.au/) | 25 - 27 September | Canberra, AU | 1 April | 30 June | Now |
 | [AISA Australian Cyber Conference](https://www.cyberconference.com.au/) | 15 - 17 October | Melbourne, AU | Open | 14 April | Now |
 | [BSides Perth](https://bsidesperth.com.au/) | 18 - 19 October | Perth, AU | TBC | TBC | Now |
