@@ -51,6 +51,7 @@ These are a list of hacker/infosec cons and meetups in the NZ and Aussie Area.
 | Brisbane, AU | [SecTalks](https://www.meetup.com/SecTalks-Brisbane/) | Monthly |
 | Canberra, AU | [CSides](https://www.bsidesau.com.au/csides.html) | Monthly |
 | Christchurch, NZ | [ISIG](https://www.meetup.com/isig-christchurch-nz/) | Last Tuesday |
+| Christchurch, NZ | [HackTheBox NZ](https://www.meetup.com/hack-the-box-meetup-christchurch-nz/) | Monthly |
 | Dunedin, NZ | [ISIG](https://isig.org.nz/) | Last Thursday |
 | Gold Coast, AU | [SecTalks](https://www.meetup.com/sectalks-goldcoast/) | First Tuesday |
 | Hamilton, NZ | [ISIG](https://isig.org.nz/) | Last Thursday |
