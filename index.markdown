@@ -9,10 +9,6 @@ These are a list of hacker/infosec cons and meetups in the NZ and Aussie Area.
 
 | Name | Date | Location | CFP Open | CFP Close | Ticket On Sale |
 | ---- | ---- | -------- | -------- | --------- | -------------- |
-| [SCONES](https://scones.secso.cc/) | 27 June | Sydney, AU | TBC | TBC | TBC |
-| [SydneySec](https://aisasecuritydays.com.au/sydneysec) | 3 July | Sydney | Closed | Closed | Open |
-| [BSides Brisbane](https://bsidesbrisbane.com/) | 12 July | Brisbane, AU | Open | 16 May | Now |
-| [NZITF](https://nzitf.org.nz/conference-details) | 21 - 22 July | Wellington, NZ | Open | 14 April | TBC |
 | [WA Cyber Security Leadership Summit](https://biapac.com/events/wa-cyber-leadership-summit) | 6 - 7 August | Perth, AU | Closed | Closed | TBC |
 | [Cyber Resilience Summit NZ 2025](https://forefrontevents.co/event/cyber-resilience-summit-nz-2025/) | 21 August | Auckland, NZ | Closed | Closed | Now |
 | [AdelaideSEC](https://aisasecuritydays.com.au/adelaidesec) | 22 August | Adelaide, AU | Open | 6 June | Now |
@@ -39,6 +35,7 @@ These are a list of hacker/infosec cons and meetups in the NZ and Aussie Area.
 | [COSAC APAC](https://cosac.net/apac/) | 24 - 26 Febuary | Melbourne, AU | Open | 11 July 2025 | TBC |
 | [BSides Ballarat](https://federation.edu.au/icsl/icsl-conferences/bsides-ballarat-2026) | 28 Febuary - 1 March | Ballarat, AU | TBC | TBC | TBC |
 | [BSides Melbourne](https://www.bsidesmelbourne.com/) | 15 - 17 May | Melbourne, NZ | September 2025 | TBC | TBC |
+| [NZITF](https://nzitf.org.nz/conference-details) | 27 - 28 July | Wellington, NZ | Open | TBC | TBC |
 
 ## Meetups
 
