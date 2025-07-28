@@ -58,6 +58,7 @@ These are a list of hacker/infosec cons and meetups in the NZ and Aussie Area.
 | Melbourne, AU | [Ruxmon Melbourne](https://www.meetup.com/ruxmon/) | Monthly |
 | Wellington, NZ | [HackTheBox NZ](https://www.meetup.com/hack-the-box-meetup-new-zealand/) | Monthly |
 | Wellington, NZ | [ISIG](https://isig.org.nz/) | Last Thursday |
+| Wellington, NZ | [Sec for Devs](https://www.meetup.com/sec-for-devs/) | Last Tuesday |
 
 
 
