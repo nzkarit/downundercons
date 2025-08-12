@@ -14,6 +14,7 @@ These are a list of hacker/infosec cons and meetups in the NZ and Aussie Area.
 | [AdelaideSEC](https://aisasecuritydays.com.au/adelaidesec) | 22 August | Adelaide, AU | Open | 6 June | Now |
 | [ROCCON](https://www.realmsofcyber.com/) | 28 August | Brisbane, AU | TBC | TBC | Now |
 | [OWASP New Zealand Day](https://appsec.org.nz/conference/) | 2 - 5 September | Auckland, NZ | Open | 30 June | TBC |
+| [CSECcon IV](https://cseccon.utscyber.org/) | 13 September | Sydney, AU | Open | TBC | Now |
 | [AHECS Cybersecurity Summit](https://www.ahecs.edu.au/events/ahecs-2025-cybersecurity-summit/) | 16 - 18 September | Paramatta, AU | TBC | TBC | TBC |
 | [ComfyCon](https://au.comfycon.rocks/) | 21 September | Online | TBC | TBC | TBC |
 | [BSides Canberra](https://www.bsidesau.com.au/) | 25 - 27 September | Canberra, AU | 1 April | 30 June | Now |
@@ -23,7 +24,7 @@ These are a list of hacker/infosec cons and meetups in the NZ and Aussie Area.
 | [RooCon](https://x.com/RooCon_AU) | 5 - 6 November | Sydney, NZ | TBC | TBC | TBC |
 | [Kākācon](https://www.kākācon.nz/) | 6 November | Wellington, NZ | N/A | N/A | Just turn up |
 | [HCKSYD](https://www.hack.sydney/) | 6 November | Sydney, AU | TBC | TBC | Open |
-| [Kawaiicon](https://kawaiicon.org/) | 6 - 8 November | Wellington, NZ | Open | TBC | TBC |
+| [Kawaiicon](https://kawaiicon.org/) | 6 - 8 November | Wellington, NZ | Open | 10 August | Now |
 | [BSides Sydney](https://www.bsides.sydney/) | 8 - 9 November | Sydney, AU | Now | 30 July | Now |
 | [NZ ICS/OT Cyber Summit](https://icscyber.org.nz/) | 26 November | New Plymouth, NZ | Open | TBC | TBC |
 | [PerthSEC](https://aisasecuritydays.com.au/perthsec) | 26 November | Perth, AU | Closed | Closed | Now |
