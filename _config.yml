@@ -23,6 +23,6 @@ plugins:
 
 timezone: Pacific/Auckland
 
-include: [_headers]
+include: [_headers, _redirects]
 
 locale: en_NZ
