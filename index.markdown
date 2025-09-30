@@ -9,15 +9,6 @@ These are a list of hacker/infosec cons and meetups in the NZ and Aussie Area.
 
 | Name | Date | Location | CFP Open | CFP Close | Ticket On Sale |
 | ---- | ---- | -------- | -------- | --------- | -------------- |
-| [WA Cyber Security Leadership Summit](https://biapac.com/events/wa-cyber-leadership-summit) | 6 - 7 August | Perth, AU | Closed | Closed | TBC |
-| [Cyber Resilience Summit NZ 2025](https://forefrontevents.co/event/cyber-resilience-summit-nz-2025/) | 21 August | Auckland, NZ | Closed | Closed | Now |
-| [AdelaideSEC](https://aisasecuritydays.com.au/adelaidesec) | 22 August | Adelaide, AU | Open | 6 June | Now |
-| [ROCCON](https://www.realmsofcyber.com/) | 28 August | Brisbane, AU | TBC | TBC | Now |
-| [OWASP New Zealand Day](https://appsec.org.nz/conference/) | 2 - 5 September | Auckland, NZ | Open | 30 June | TBC |
-| [CSECcon IV](https://cseccon.utscyber.org/) | 13 September | Sydney, AU | Open | TBC | Now |
-| [AHECS Cybersecurity Summit](https://www.ahecs.edu.au/events/ahecs-2025-cybersecurity-summit/) | 16 - 18 September | Paramatta, AU | TBC | TBC | TBC |
-| [ComfyCon](https://au.comfycon.rocks/) | 21 September | Online | TBC | TBC | TBC |
-| [BSides Canberra](https://www.bsidesau.com.au/) | 25 - 27 September | Canberra, AU | 1 April | 30 June | Now |
 | [AISA Australian Cyber Conference](https://www.cyberconference.com.au/) | 15 - 17 October | Melbourne, AU | Open | 14 April | Now |
 | [BSides Perth](https://bsidesperth.com.au/) | 18 - 19 October | Perth, AU | TBC | TBC | Now |
 | [ChCon](https://2025.chcon.nz/) | 29 - 31 Ocotober | Christchurch, NZ | Now | 15 August | 31 July |
@@ -37,6 +28,7 @@ These are a list of hacker/infosec cons and meetups in the NZ and Aussie Area.
 | [BSides Ballarat](https://federation.edu.au/icsl/icsl-conferences/bsides-ballarat-2026) | 28 Febuary - 1 March | Ballarat, AU | TBC | TBC | TBC |
 | [BSides Melbourne](https://www.bsidesmelbourne.com/) | 15 - 17 May | Melbourne, NZ | September 2025 | TBC | TBC |
 | [NZITF](https://nzitf.org.nz/conference-details) | 27 - 28 July | Wellington, NZ | Open | TBC | TBC |
+| [BSides Canberra](https://www.bsidesau.com.au/) | 24 - 26 September | Canberra, AU | TBC | TBC | TBC |
 
 ## Meetups
 
