@@ -11,10 +11,11 @@ These are a list of hacker/infosec cons and meetups in the NZ and Aussie Area.
 | ---- | ---- | -------- | -------- | --------- | -------------- |
 | [AISA Australian Cyber Conference](https://www.cyberconference.com.au/) | 15 - 17 October | Melbourne, AU | Open | 14 April | Now |
 | [BSides Perth](https://bsidesperth.com.au/) | 18 - 19 October | Perth, AU | TBC | TBC | Now |
-| [ChCon](https://2025.chcon.nz/) | 29 - 31 Ocotober | Christchurch, NZ | Now | 15 August | 31 July |
+| [ChCon](https://2025.chcon.nz/) | 29 - 31 October | Christchurch, NZ | Now | 15 August | 31 July |
 | [RooCon](https://x.com/RooCon_AU) | 5 - 6 November | Sydney, NZ | TBC | TBC | 2 September |
 | [Kākācon](https://www.kākācon.nz/) | 6 November | Wellington, NZ | N/A | N/A | Just turn up |
 | [HCKSYD](https://www.hack.sydney/) | 6 November | Sydney, AU | TBC | TBC | Open |
+| [HVCKtheHILLS](https://hvckthehills.com/) | 6 November | Melbourne, AU | Closed | Closed | Now |
 | [Kawaiicon](https://kawaiicon.org/) | 6 - 8 November | Wellington, NZ | Open | 10 August | Now |
 | [BSides Sydney](https://www.bsides.sydney/) | 8 - 9 November | Sydney, AU | Now | 30 July | Now |
 | [NZ ICS/OT Cyber Summit](https://icscyber.org.nz/) | 26 November | New Plymouth, NZ | Open | TBC | TBC |
@@ -27,7 +28,7 @@ These are a list of hacker/infosec cons and meetups in the NZ and Aussie Area.
 | [COSAC APAC](https://cosac.net/apac/) | 24 - 26 Febuary | Melbourne, AU | Open | 11 July 2025 | TBC |
 | [MRE](https://federation.edu.au/icsl/icsl-conferences/mre-2026) | 26 - 27 Feburary | Ballarat, AU | TBC | TBC | TBC |
 | [BSides Ballarat](https://federation.edu.au/icsl/icsl-conferences/bsides-ballarat-2026) | 28 Febuary - 1 March | Ballarat, AU | TBC | TBC | TBC |
-| [BSides Melbourne](https://www.bsidesmelbourne.com/) | 15 - 17 May | Melbourne, NZ | September 2025 | TBC | TBC |
+| [BSides Melbourne](https://www.bsidesmelbourne.com/) | 15 - 17 May | Melbourne, AU | September 2025 | TBC | TBC |
 | [BSides Gold Coast](https://bsidesgoldie.com/) | 23 May | Gold Coast, AU | Now | TBC | TBC |
 | [NZITF](https://nzitf.org.nz/conference-details) | 27 - 28 July | Wellington, NZ | Open | TBC | TBC |
 | [BSides Canberra](https://www.bsidesau.com.au/) | 24 - 26 September | Canberra, AU | TBC | TBC | TBC |
@@ -77,4 +78,4 @@ This will only include cons and events:
 
 If you would like to make an update you can create a pull request on the [GitHub Repository](https://github.com/nzkarit/downundercons).
 
-Being listed on this site does not indicate endrosement, guarrantee of quality, etc. You will need to do your own research to know if it is a good conference and good conference for you.
+Being listed on this site does not indicate endrosement, guarantee of quality, etc. You will need to do your own research to know if it is a good conference and good conference for you.
