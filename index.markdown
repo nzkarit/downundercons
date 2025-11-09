@@ -28,7 +28,7 @@ These are a list of hacker/infosec cons and meetups in the NZ and Aussie Area.
 | [COSAC APAC](https://cosac.net/apac/) | 24 - 26 Febuary | Melbourne, AU | Open | 11 July 2025 | TBC |
 | [MRE](https://federation.edu.au/icsl/icsl-conferences/mre-2026) | 26 - 27 Feburary | Ballarat, AU | TBC | TBC | TBC |
 | [BSides Ballarat](https://federation.edu.au/icsl/icsl-conferences/bsides-ballarat-2026) | 28 Febuary - 1 March | Ballarat, AU | TBC | TBC | TBC |
-| [CrikeyCon](https://crikeycon.com/) | 21 March | Brisbane, AU | Open | 1 Febuary 2026 | TBC |
+| [CrikeyCon](https://crikeycon.com/) | 21 March | Brisbane, AU | Open | 1 Febuary 2026 | Now |
 | [BSides Melbourne](https://www.bsidesmelbourne.com/) | 15 - 17 May | Melbourne, AU | 15 November 2025 | TBC | 2 March 2026 |
 | [BSides Gold Coast](https://bsidesgoldie.com/) | 23 May | Gold Coast, AU | Now | TBC | TBC |
 | [NZITF](https://nzitf.org.nz/conference-details) | 27 - 28 July | Wellington, NZ | Open | TBC | TBC |
@@ -51,6 +51,7 @@ These are a list of hacker/infosec cons and meetups in the NZ and Aussie Area.
 | Dunedin, NZ | [ISIG](https://isig.org.nz/) | Last Thursday |
 | Gold Coast, AU | [SecTalks](https://www.meetup.com/sectalks-goldcoast/) | First Tuesday |
 | Hamilton, NZ | [ISIG](https://isig.org.nz/) | Last Thursday |
+| Hamilton, [OWASP](https://www.meetup.com/owaspnz-hamilton/) | Monthly |
 | Hawke’s Bay, NZ | [ISIG](https://isig.org.nz/) | Monthly |
 | Melbourne, AU | [AppSec Aus Melb](https://www.meetup.com/appsec-australia/) | Every 2 Months |
 | Melbourne, AU | [Melbourne OT Cybersecurity Community Night](https://www.meetup.com/melbourne-ot-cybersecurity/) | Every 2 Months |
