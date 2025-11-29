@@ -5,22 +5,6 @@ title: Downunder Cons
 
 These are a list of hacker/infosec cons and meetups in the NZ and Aussie Area.
 
-## 2025
-
-| Name | Date | Location | CFP Open | CFP Close | Ticket On Sale |
-| ---- | ---- | -------- | -------- | --------- | -------------- |
-| [AISA Australian Cyber Conference](https://www.cyberconference.com.au/) | 15 - 17 October | Melbourne, AU | Open | 14 April | Now |
-| [BSides Perth](https://bsidesperth.com.au/) | 18 - 19 October | Perth, AU | TBC | TBC | Now |
-| [ChCon](https://2025.chcon.nz/) | 29 - 31 October | Christchurch, NZ | Now | 15 August | 31 July |
-| [RooCon](https://x.com/RooCon_AU) | 5 - 6 November | Sydney, NZ | TBC | TBC | 2 September |
-| [Kākācon](https://www.kākācon.nz/) | 6 November | Wellington, NZ | N/A | N/A | Just turn up |
-| [HCKSYD](https://www.hack.sydney/) | 6 November | Sydney, AU | TBC | TBC | Open |
-| [HVCKtheHILLS](https://hvckthehills.com/) | 6 November | Melbourne, AU | Closed | Closed | Now |
-| [Kawaiicon](https://kawaiicon.org/) | 6 - 8 November | Wellington, NZ | Open | 10 August | Now |
-| [BSides Sydney](https://www.bsides.sydney/) | 8 - 9 November | Sydney, AU | Now | 30 July | Now |
-| [NZ ICS/OT Cyber Summit](https://icscyber.org.nz/) | 26 November | New Plymouth, NZ | Open | TBC | TBC |
-| [PerthSEC](https://aisasecuritydays.com.au/perthsec) | 26 November | Perth, AU | Closed | Closed | Now |
-
 ## 2026
 
 | Name | Date | Location | CFP Open | CFP Close | Ticket On Sale |
