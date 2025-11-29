@@ -25,6 +25,7 @@ These are a list of hacker/infosec cons and meetups in the NZ and Aussie Area.
 
 | Name | Date | Location | CFP Open | CFP Close | Ticket On Sale |
 | ---- | ---- | -------- | -------- | --------- | -------------- |
+| [AppSec & DevSecOps Sydney](https://appsec-devsecops-syd.coriniumintelligence.com/) | 11 Febuary | Sydney, AU | TBC | TBC | TBC |
 | [COSAC APAC](https://cosac.net/apac/) | 24 - 26 Febuary | Melbourne, AU | Open | 11 July 2025 | TBC |
 | [MRE](https://federation.edu.au/icsl/icsl-conferences/mre-2026) | 26 - 27 Feburary | Ballarat, AU | TBC | TBC | TBC |
 | [BSides Ballarat](https://federation.edu.au/icsl/icsl-conferences/bsides-ballarat-2026) | 28 Febuary - 1 March | Ballarat, AU | TBC | TBC | TBC |
@@ -34,6 +35,7 @@ These are a list of hacker/infosec cons and meetups in the NZ and Aussie Area.
 | [AUSCERT](https://conference.auscert.org.au/) | 19 - 22 May | Gold Coast, AU | TBC | TBC | TBC |
 | [BSides Gold Coast](https://bsidesgoldie.com/) | 23 May | Gold Coast, AU | Now | TBC | TBC |
 | [Cyber Connect](https://www.cyberconnect.org.au/) | 27 - 28 May | Canberra, AU | TBC | TBC | TBC |
+| [BSides Brisbane](https://bsidesbrisbane.com/) | 4 July | Brisbane, AU | TBC | TBC | TBC |
 | [NZITF](https://nzitf.org.nz/conference-details) | 27 - 28 July | Wellington, NZ | Open | TBC | TBC |
 | [AdelaideSEC](https://aisasecuritydays.com.au/) | 21 August | Adelaide, AU | TBC | TBC | TBC |
 | [BSides Canberra](https://www.bsidesau.com.au/) | 24 - 26 September | Canberra, AU | TBC | TBC | TBC |
