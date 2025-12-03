@@ -13,7 +13,8 @@ These are a list of hacker/infosec cons and meetups in the NZ and Aussie Area.
 | [COSAC APAC](https://cosac.net/apac/) | 24 - 26 Febuary | Melbourne, AU | Open | 11 July 2025 | TBC |
 | [MRE](https://federation.edu.au/icsl/icsl-conferences/mre-2026) | 26 - 27 Feburary | Ballarat, AU | TBC | TBC | TBC |
 | [BSides Ballarat](https://federation.edu.au/icsl/icsl-conferences/bsides-ballarat-2026) | 28 Febuary - 1 March | Ballarat, AU | TBC | TBC | TBC |
-| [CrikeyCon](https://crikeycon.com/) | 21 March | Brisbane, AU | Open | 1 Febuary 2026 | Now |
+| [NZ Cyber Security Summit](https://brightstar.co.nz/events/cybersecurity/) | 17 - 18 March | Wellington, NZ | TBC | TBC | Now |
+| [CrikeyCon](https://crikeycon.com/) | https://brightstar.co.nz/events/cybersecurity/21 March | Brisbane, AU | Open | 1 Febuary 2026 | Now |
 | [BrisSEC](https://aisasecuritydays.com.au/) | 29 April | Brisbane | TBC | TBC | TBC |
 | [BSides Melbourne](https://www.bsidesmelbourne.com/) | 15 - 17 May | Melbourne, AU | 15 November 2025 | TBC | 2 March 2026 |
 | [AUSCERT](https://conference.auscert.org.au/) | 19 - 22 May | Gold Coast, AU | TBC | TBC | TBC |
