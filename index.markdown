@@ -1,6 +1,7 @@
 ---
 layout: home
 title: Downunder Cons
+last_modified_at: 2025-12-14 11:45:00 +1300
 ---
 
 These are a list of hacker/infosec cons and meetups in the NZ and Aussie Area.
@@ -75,4 +76,4 @@ This will only include cons and events:
 
 If you would like to make an update you can create a pull request on the [GitHub Repository](https://github.com/nzkarit/downundercons).
 
-Being listed on this site does not indicate endrosement, guarantee of quality, etc. You will need to do your own research to know if it is a good conference and good conference for you.
+Being listed on this site does not indicate endorsement, guarantee of quality, etc. You will need to do your own research to know if it is a good conference and good conference for you.
