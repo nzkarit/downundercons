@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Downunder Cons
-last_modified_at: 2025-12-14 11:45:00 +1300
+last_modified_at: 2025-12-16 19:40:00 +1300
 ---
 
 These are a list of hacker/infosec cons and meetups in the NZ and Aussie Area.
@@ -11,14 +11,14 @@ These are a list of hacker/infosec cons and meetups in the NZ and Aussie Area.
 | Name | Date | Location | CFP Open | CFP Close | Ticket On Sale |
 | ---- | ---- | -------- | -------- | --------- | -------------- |
 | [AppSec & DevSecOps Sydney](https://appsec-devsecops-syd.coriniumintelligence.com/) | 11 Febuary | Sydney, AU | TBC | TBC | TBC |
-| [COSAC APAC](https://cosac.net/apac/) | 24 - 26 Febuary | Melbourne, AU | Open | 11 July 2025 | TBC |
+| [COSAC APAC](https://cosac.net/apac/) | 24 - 26 Febuary | Melbourne, AU | Open | 11 July 2025 | Now |
 | [MRE](https://federation.edu.au/icsl/icsl-conferences/mre-2026) | 26 - 27 Feburary | Ballarat, AU | TBC | TBC | TBC |
-| [BSides Ballarat](https://federation.edu.au/icsl/icsl-conferences/bsides-ballarat-2026) | 28 Febuary - 1 March | Ballarat, AU | TBC | TBC | TBC |
+| [BSides Ballarat](https://federation.edu.au/icsl/icsl-conferences/bsides-ballarat-2026) | 28 Febuary - 1 March | Ballarat, AU | Closed | Closed | Now |
 | [NZ Cyber Security Summit](https://brightstar.co.nz/events/cybersecurity/) | 17 - 18 March | Wellington, NZ | TBC | TBC | Now |
 | [CrikeyCon](https://crikeycon.com/) | 21 March | Brisbane, AU | Open | 1 Febuary 2026 | Now |
 | [BrisSEC](https://aisasecuritydays.com.au/) | 29 April | Brisbane | TBC | TBC | TBC |
-| [BSides Melbourne](https://www.bsidesmelbourne.com/) | 15 - 17 May | Melbourne, AU | 15 November 2025 | TBC | 2 March 2026 |
-| [AUSCERT](https://conference.auscert.org.au/) | 19 - 22 May | Gold Coast, AU | TBC | TBC | TBC |
+| [BSides Melbourne](https://www.bsidesmelbourne.com/) | 15 - 17 May | Melbourne, AU | 15 November 2025 | 15 Febuary 2026 | 2 March 2026 |
+| [AUSCERT](https://conference.auscert.org.au/) | 19 - 22 May | Gold Coast, AU | Now | 27 Januaray 2026 | Early 2026 |
 | [BSides Gold Coast](https://bsidesgoldie.com/) | 23 May | Gold Coast, AU | Now | TBC | TBC |
 | [Cyber Connect](https://www.cyberconnect.org.au/) | 27 - 28 May | Canberra, AU | TBC | TBC | TBC |
 | [BSides Brisbane](https://bsidesbrisbane.com/) | 4 July | Brisbane, AU | TBC | TBC | TBC |
