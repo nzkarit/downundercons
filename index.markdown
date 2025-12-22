@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Downunder Cons
-last_modified_at: 2025-12-16 19:40:00 +1300
+last_modified_at: 2025-12-22 20:33:00 +1300
 ---
 
 These are a list of hacker/infosec cons and meetups in the NZ and Aussie Area.
@@ -49,6 +49,7 @@ These are a list of hacker/infosec cons and meetups in the NZ and Aussie Area.
 | Hamilton, NZ | [OWASP](https://www.meetup.com/owaspnz-hamilton/) | Monthly |
 | Hawke’s Bay, NZ | [ISIG](https://isig.org.nz/) | Monthly |
 | Melbourne, AU | [AppSec Aus Melb](https://www.meetup.com/appsec-australia/) | Every 2 Months |
+| Melborune, AU | [Cyberspectrum Melbourne](https://www.meetup.com/en-au/cyberspectrum-melbourne/) | Monthly |
 | Melbourne, AU | [Melbourne OT Cybersecurity Community Night](https://www.meetup.com/melbourne-ot-cybersecurity/) | Every 2 Months |
 | Melbourne, AU | [Ruxmon Melbourne](https://www.meetup.com/ruxmon/) | Monthly |
 | Wellington, NZ | [HackTheBox NZ](https://www.meetup.com/hack-the-box-meetup-new-zealand/) | Monthly |
