@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Downunder Cons
-last_modified_at: 2026-01-12 10:05:00 +1300
+last_modified_at: 2026-01-12 10:18:00 +1300
 ---
 
 These are a list of hacker/infosec cons and meetups in the NZ and Aussie Area.
@@ -14,6 +14,7 @@ These are a list of hacker/infosec cons and meetups in the NZ and Aussie Area.
 | [COSAC APAC](https://cosac.net/apac/) | 24 - 26 Febuary | Melbourne, AU | Open | 11 July 2025 | Now |
 | [MRE](https://federation.edu.au/icsl/icsl-conferences/mre-2026) | 26 - 27 Feburary | Ballarat, AU | TBC | TBC | TBC |
 | [BSides Ballarat](https://federation.edu.au/icsl/icsl-conferences/bsides-ballarat-2026) | 28 Febuary - 1 March | Ballarat, AU | Closed | Closed | Now |
+| [Women in Cyber Security Summit](https://www.aisa.org.au/public/Public/Events/Conferences/AISA%20Conferences.aspx) | 12 March | Canberra, AU | TBC | TBC | TBC |
 | [NZ Cyber Security Summit](https://brightstar.co.nz/events/cybersecurity/) | 17 - 18 March | Wellington, NZ | TBC | TBC | Now |
 | [CrikeyCon](https://crikeycon.com/) | 21 March | Brisbane, AU | Open | 1 Febuary 2026 | Now |
 | [BrisSEC](https://aisasecuritydays.com.au/) | 29 April | Brisbane, AU | TBC | TBC | TBC |
@@ -22,6 +23,7 @@ These are a list of hacker/infosec cons and meetups in the NZ and Aussie Area.
 | [AUSCERT](https://conference.auscert.org.au/) | 19 - 22 May | Gold Coast, AU | Now | 27 Januaray 2026 | Early 2026 |
 | [BSides Gold Coast](https://bsidesgoldie.com/) | 23 May | Gold Coast, AU | Now | TBC | TBC |
 | [Cyber Connect](https://www.cyberconnect.org.au/) | 27 - 28 May | Canberra, AU | TBC | TBC | TBC |
+| [Sydney Sec](https://aisasecuritydays.com.au/) | 3 July | Sydney, AU | TBC | TBC | TBC |
 | [BSides Brisbane](https://bsidesbrisbane.com/) | 4 July | Brisbane, AU | Now | 24 May | Now |
 | [NZITF](https://nzitf.org.nz/conference-details) | 27 - 28 July | Wellington, NZ | Open | TBC | TBC |
 | [AdelaideSEC](https://aisasecuritydays.com.au/) | 21 August | Adelaide, AU | TBC | TBC | TBC |
