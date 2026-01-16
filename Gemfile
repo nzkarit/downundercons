@@ -4,8 +4,6 @@ gem "jekyll"
 
 gem 'rake', '>= 13.0'
 
-ruby "3.1.4"
-
 group :jekyll_plugins do
   gem 'jekyll-sitemap'
   gem 'jekyll-feed'
