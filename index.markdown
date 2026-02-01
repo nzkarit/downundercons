@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Downunder Cons
-last_modified_at: 2026-02-01 19:09:00 +1300
+last_modified_at: 2026-02-01 19:20:00 +1300
 ---
 
 These are a list of hacker/infosec cons and meetups in the NZ and Aussie Area.
@@ -19,8 +19,8 @@ These are a list of hacker/infosec cons and meetups in the NZ and Aussie Area.
 | [CrikeyCon](https://crikeycon.com/) | 21 March | Brisbane, AU | Open | 1 Febuary 2026 | Now |
 | [BrisSEC](https://aisasecuritydays.com.au/) | 29 April | Brisbane, AU | TBC | TBC | TBC |
 | [Sunshine Coast Cybersecurity Conference](https://sunconqld.com/) | 9 May | Sunshine Coast, AU | Now | TBC | TBC |
-| [BSides Melbourne](https://www.bsidesmelbourne.com/) | 15 - 17 May | Melbourne, AU | 15 November 2025 | 15 Febuary 2026 | 2 March 2026 |
-| [AUSCERT](https://conference.auscert.org.au/) | 19 - 22 May | Gold Coast, AU | Now | 27 Januaray 2026 | Early 2026 |
+| [BSides Melbourne](https://www.bsidesmelbourne.com/) | 15 - 17 May | Melbourne, AU | 15 November | 15 Febuary | 2 March |
+| [AUSCERT](https://conference.auscert.org.au/) | 19 - 22 May | Gold Coast, AU | Now | 27 Januaray | Early 2026 |
 | [BSides Gold Coast](https://bsidesgoldie.com/) | 23 May | Gold Coast, AU | Now | 28 Febuary | TBC |
 | [Cyber Connect](https://www.cyberconnect.org.au/) | 27 - 28 May | Canberra, AU | TBC | TBC | TBC |
 | [Sydney Sec](https://aisasecuritydays.com.au/) | 3 July | Sydney, AU | TBC | TBC | TBC |
@@ -29,7 +29,7 @@ These are a list of hacker/infosec cons and meetups in the NZ and Aussie Area.
 | [BSides Adelaide](https://www.bsidesadelaide.com.au/) | 27 - 28 July | Adelaide, AU |TBC | TBC | TBC |
 | [AdelaideSEC](https://aisasecuritydays.com.au/) | 21 August | Adelaide, AU | TBC | TBC | TBC |
 | [Security Edge](https://adapt.com.au/events/security-edge/) | 8 September | Sydney, AU | TBC | TBC | TBC |
-| [BSides Canberra](https://www.bsidesau.com.au/) | 24 - 26 September | Canberra, AU | TBC | TBC | Now |
+| [BSides Canberra](https://www.bsidesau.com.au/) | 24 - 26 September | Canberra, AU | 1 April | TBC | Now |
 | [Emu Con](https://con.emu.team/) | 27 September | Canberra, AU | Now | 1 July | Now |
 | [BSides Perth](https://bsidesperth.com.au/) | 10 - 11 October (tentative) | Perth, AU | TBC | TBC | TBC |
 | [AISA Australian Cyber Conference](https://www.cyberconference.com.au/) | 14 - 16 October | Melbourne, AU | TBC | TBC | TBC |
