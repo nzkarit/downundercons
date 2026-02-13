@@ -1,8 +1,10 @@
 source "https://rubygems.org"
 
 gem "jekyll"
-
-gem 'rake', '>= 13.0'
+gem "logger"
+gem "csv"
+gem "base64"
+gem "bigdecimal"
 
 group :jekyll_plugins do
   gem 'jekyll-sitemap'
