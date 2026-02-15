@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Downunder Cons
-last_modified_at: 2026-02-02 13:16:00 +1300
+last_modified_at: 2026-02-15 15:05:00 +1300
 ---
 
 These are a list of hacker/infosec cons and meetups in the NZ and Aussie Area.
@@ -19,6 +19,7 @@ These are a list of hacker/infosec cons and meetups in the NZ and Aussie Area.
 | [CrikeyCon](https://crikeycon.com/) | 21 March | Brisbane, AU | Open | 1 February 2026 | Now |
 | [BrisSEC](https://aisasecuritydays.com.au/) | 29 April | Brisbane, AU | TBC | TBC | TBC |
 | [Sunshine Coast Cybersecurity Conference](https://sunconqld.com/) | 9 May | Sunshine Coast, AU | Now | TBC | TBC |
+| [HVCKtheHills](https://hvckthehills.com/) | 10 May | Belgrave, AU | Now | TBC | Now |
 | [BSides Melbourne](https://www.bsidesmelbourne.com/) | 15 - 17 May | Melbourne, AU | 15 November | 15 February | 2 March |
 | [AUSCERT](https://conference.auscert.org.au/) | 19 - 22 May | Gold Coast, AU | Now | 27 January | Early 2026 |
 | [BSides Gold Coast](https://bsidesgoldie.com/) | 23 May | Gold Coast, AU | Now | 28 February | TBC |
