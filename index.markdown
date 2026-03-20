@@ -35,6 +35,7 @@ These are a list of hacker/infosec cons and meetups in the NZ and Aussie Area.
 | [Emu Con](https://con.emu.team/) | 27 September | Canberra, AU | Now | 1 July | Now |
 | [BSides Perth](https://bsidesperth.com.au/) | 10 - 11 October (tentative) | Perth, AU | TBC | TBC | TBC |
 | [AISA Australian Cyber Conference](https://www.cyberconference.com.au/) | 14 - 16 October | Melbourne, AU | 17 March | TBC | !7 March |
+| [Kawaiicon](https://kawaiicon.org/) | 30 - 31 October | Wellington, NZ | TBC | TBC | TBC |
 | [CISO NZ](https://ciso-nz.coriniumintelligence.com/) | 18 - 19 November | Auckland, NZ | Now | TBC | TBC |
 | [ChCon](https://2026.chcon.nz/) | 18 - 20 November | Christchurch, NZ | TBC | TBC | TBC |
 | [BaaCon](https://baacon.nz/) | 5 - 6 December | Rural Wairarapa, NZ | Now | 31 August | 1 July | 
