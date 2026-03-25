@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Downunder Cons
-last_modified_at: 2026-03-20 15:18:00 +1300
+last_modified_at: 2026-03-25 21:36:00 +1300
 ---
 
 These are a list of hacker/infosec cons and meetups in the NZ and Aussie Area.
@@ -40,6 +40,11 @@ These are a list of hacker/infosec cons and meetups in the NZ and Aussie Area.
 | [CISO NZ](https://ciso-nz.coriniumintelligence.com/) | 18 - 19 November | Auckland, NZ | Now | TBC | TBC |
 | [ChCon](https://2026.chcon.nz/) | 18 - 20 November | Christchurch, NZ | TBC | TBC | TBC |
 | [BaaCon](https://baacon.nz/) | 5 - 6 December | Rural Wairarapa, NZ | Now | 31 August | 1 July | 
+
+## 2027
+| Name | Date | Location | CFP Open | CFP Close | Ticket On Sale |
+| ---- | ---- | -------- | -------- | --------- | -------------- |
+| [COSAC APAC](https://cosac.net/apac/) | 23 - 25 February| Melbourne, AU | 1 May 2026 | TBC | TBC |
 
 ## Meetups
 
