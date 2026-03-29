@@ -33,7 +33,7 @@ These are a list of hacker/infosec cons and meetups in the NZ and Aussie Area.
 | [Security Edge](https://adapt.com.au/events/security-edge/) | 8 September | Sydney, AU | TBC | TBC | TBC |
 | [BSides Canberra](https://www.bsidesau.com.au/) | 24 - 26 September | Canberra, AU | 1 April | TBC | Now |
 | [Emu Con](https://con.emu.team/) | 27 September | Canberra, AU | Now | 1 July | Now |
-| [BSides Perth](https://bsidesperth.com.au/) | 10 - 11 October (tentative) | Perth, AU | TBC | TBC | TBC |
+| [BSides Perth](https://bsidesperth.com.au/) | 10 - 11 October | Perth, AU | TBC | TBC | TBC |
 | [AISA Australian Cyber Conference](https://www.cyberconference.com.au/) | 14 - 16 October | Melbourne, AU | 17 March | TBC | 17 March |
 | [Kākācon](https://www.xn--kkcon-fwab.nz/) | 29 Ocotober | Wellington, NZ | N/A | N/A | N/A |
 | [Kawaiicon](https://kawaiicon.org/) | 30 - 31 October | Wellington, NZ | TBC | TBC | TBC |
