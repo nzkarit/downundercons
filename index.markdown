@@ -27,7 +27,7 @@ These are a list of hacker/infosec cons and meetups in the NZ and Aussie Area.
 | [Sydney Sec](https://aisasecuritydays.com.au/) | 3 July | Sydney, AU | TBC | TBC | TBC |
 | [BSides Brisbane](https://bsidesbrisbane.com/) | 4 July | Brisbane, AU | Now | 24 May | Now |
 | [NZITF](https://nzitf.org.nz/conference-details) | 27 - 28 July | Wellington, NZ | Open | 6 April | TBC |
-| [BSides Adelaide](https://www.bsidesadelaide.com.au/) | 27 - 28 July | Adelaide, AU |TBC | TBC | TBC |
+| [BSides Adelaide](https://www.bsidesadelaide.com.au/) | 27 - 28 July | Adelaide, AU | TBC | TBC | Now |
 | [AdelaideSEC](https://aisasecuritydays.com.au/) | 21 August | Adelaide, AU | TBC | TBC | TBC |
 | [Realms of Cyber](https://www.realmsofcyber.com/) | 27 August | Brisbane, AU | Now | TBC | TBC |
 | [Security Edge](https://adapt.com.au/events/security-edge/) | 8 September | Sydney, AU | TBC | TBC | TBC |
