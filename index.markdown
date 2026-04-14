@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Downunder Cons
-last_modified_at: 2026-04-01 11:22:00 +1300
+last_modified_at: 2026-04-014 21:26:00 +1200
 ---
 
 These are a list of hacker/infosec cons and meetups in the NZ and Aussie Area.
