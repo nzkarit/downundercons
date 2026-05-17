@@ -31,7 +31,7 @@ These are a list of hacker/infosec cons and meetups in the NZ and Aussie Area.
 | [AdelaideSEC](https://aisasecuritydays.com.au/) | 21 August | Adelaide, AU | TBC | TBC | TBC |
 | [Realms of Cyber](https://www.realmsofcyber.com/) | 27 August | Brisbane, AU | Now | TBC | TBC |
 | [Security Edge](https://adapt.com.au/events/security-edge/) | 8 September | Sydney, AU | TBC | TBC | TBC |
-| [Unprompted.au](https://www.unprompted.au/) | 18 - 19 September | Sydney, AU | TBC | TBC | Now |
+| [Unprompted.au](https://www.unprompted.au/) | 18 - 19 September | Sydney, AU | Now | 31 July | Now |
 | [BSides Canberra](https://www.bsidesau.com.au/) | 24 - 26 September | Canberra, AU | 1 April | 30 June | Now |
 | [Emu Con](https://con.emu.team/) | 27 September | Canberra, AU | Now | 1 July | Now |
 | [AISA Australian Cyber Conference](https://www.cyberconference.com.au/) | 14 - 16 October | Melbourne, AU | 17 March | TBC | 17 March |
