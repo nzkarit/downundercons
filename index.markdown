@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Downunder Cons
-last_modified_at: 2026-05-29 09:50:00 +1200
+last_modified_at: 2026-06-01 19:10:00 +1200
 ---
 
 These are a list of hacker/infosec cons and meetups in the NZ and Aussie Area.
@@ -36,7 +36,7 @@ These are a list of hacker/infosec cons and meetups in the NZ and Aussie Area.
 | [Emu Con](https://con.emu.team/) | 27 September | Canberra, AU | Now | 1 July | Now |
 | [AISA Australian Cyber Conference](https://www.cyberconference.com.au/) | 14 - 16 October | Melbourne, AU | 17 March | TBC | 17 March |
 | [Kākācon](https://www.xn--kkcon-fwab.nz/) | 29 Ocotober | Wellington, NZ | N/A | N/A | N/A |
-| [Kawaiicon](https://kawaiicon.org/) | 30 - 31 October | Wellington, NZ | TBC | TBC | TBC |
+| [Kawaiicon](https://kawaiicon.org/) | 30 - 31 October | Wellington, NZ | Now | 7 August | TBC |
 | [BSides Sydney](https://www.bsides.sydney/) | 7 November | Sydney, AU | Now | 15 July | Now |
 | [CISO NZ](https://ciso-nz.coriniumintelligence.com/) | 18 - 19 November | Auckland, NZ | Now | TBC | TBC |
 | [BSides Perth](https://bsidesperth.com.au/) | 13 - 14 November | Perth, AU | TBC | TBC | TBC |
