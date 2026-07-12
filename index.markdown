@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Downunder Cons
-last_modified_at: 2026-07-13 11:56:00 +1200
+last_modified_at: 2026-07-13 11:58:00 +1200
 ---
 
 These are a list of hacker/infosec cons and meetups in the NZ and Aussie Area.
@@ -39,8 +39,8 @@ These are a list of hacker/infosec cons and meetups in the NZ and Aussie Area.
 | [Kākācon](https://www.xn--kkcon-fwab.nz/) | 29 Ocotober | Wellington, NZ | N/A | N/A | N/A |
 | [Kawaiicon](https://kawaiicon.org/) | 30 - 31 October | Wellington, NZ | Now | 7 August | TBC |
 | [BSides Sydney](https://www.bsides.sydney/) | 7 November | Sydney, AU | Now | 15 July | Now |
-| [CISO NZ](https://ciso-nz.coriniumintelligence.com/) | 18 - 19 November | Auckland, NZ | Now | TBC | TBC |
 | [BSides Perth](https://bsidesperth.com.au/) | 13 - 14 November | Perth, AU | TBC | TBC | TBC |
+| [CISO NZ](https://ciso-nz.coriniumintelligence.com/) | 18 - 19 November | Auckland, NZ | Now | TBC | TBC |
 | [RooCon](https://x.com/RooCon_AU) | 18 - 19  November | Sydney, AU | TBC | End of August| TBC |
 | [ChCon](https://2026.chcon.nz/) | 18 - 20 November | Christchurch, NZ | 1 June | 15 September | 15 August |
 | [BaaCon](https://baacon.nz/) | 5 - 6 December | Rural Wairarapa, NZ | Now | 31 August | 1 July | 
