@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Downunder Cons
-last_modified_at: 2026-07-18 11:25:00 +1200
+last_modified_at: 2026-07-18 22:28:00 +1200
 ---
 
 These are a list of hacker/infosec cons and meetups in the NZ and Aussie Area.
@@ -52,6 +52,7 @@ These are a list of hacker/infosec cons and meetups in the NZ and Aussie Area.
 | Name | Date | Location | CFP Open | CFP Close | Ticket On Sale |
 | ---- | ---- | -------- | -------- | --------- | -------------- |
 | [COSAC APAC](https://cosac.net/apac/) | 23 - 25 February| Melbourne, AU | 1 May 2026 | TBC | TBC |
+| [CrikeyCon](https://crikeycon.com/) | 17 April | Brisbane, AU | TBC | TBC | TBC |
 
 ## Meetups
 
