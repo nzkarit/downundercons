@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Downunder Cons
-last_modified_at: 2026-07-18 22:28:00 +1200
+last_modified_at: 2026-07-21 17:36:00 +1200
 ---
 
 These are a list of hacker/infosec cons and meetups in the NZ and Aussie Area.
@@ -31,6 +31,7 @@ These are a list of hacker/infosec cons and meetups in the NZ and Aussie Area.
 | [AdelaideSEC](https://aisasecuritydays.com.au/) | 21 August | Adelaide, AU | TBC | TBC | TBC |
 | [Realms of Cyber](https://www.realmsofcyber.com/) | 27 August | Brisbane, AU | Now | TBC | TBC |
 | [BSides ICS Downunder](https://www.linkedin.com/company/bsides-ics-downunder/posts/?feedView=all) | 28 - 29 August | Melbourne, AU | TBC | TBC | Now |
+| [OWASP NZ DAY](https://appsec.org.nz/conference/) | 1 - 4 September | Auckland, NZ | TBC | TBC | Now |
 | [Security 2 Cure](https://security2cure.com.au/) | 4 September | Brisbane, AU | TBC | TBC | TBC |
 | [Security Edge](https://adapt.com.au/events/security-edge/) | 8 September | Sydney, AU | TBC | TBC | TBC |
 | [DarwinSec](https://aisasecuritydays.com.au/darwinsec) | 10 September | Darwin, AU | TBC | TBC | TBC |
