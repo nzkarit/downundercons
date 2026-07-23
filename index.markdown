@@ -50,8 +50,8 @@ These are a list of hacker/infosec cons and meetups in the NZ and Aussie Area.
 
 ## 2027
 
-| Name | Date | Location | CFP Open | CFP Close | Ticket On Sale |
-| ---- | ---- | -------- | -------- | --------- | -------------- |
+| Name | Date | Location | CFP Open | CFP Close | Ticket On Sale | AI Art |
+| ---- | ---- | -------- | -------- | --------- | -------------- | ------ |
 | [COSAC APAC](https://cosac.net/apac/) | 23 - 25 February| Melbourne, AU | 1 May 2026 | TBC | TBC | TBD |
 | [CrikeyCon](https://crikeycon.com/) | 17 April | Brisbane, AU | TBC | TBC | TBC | TBD |
 
