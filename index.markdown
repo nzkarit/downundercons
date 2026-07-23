@@ -1,59 +1,59 @@
 ---
 layout: home
 title: Downunder Cons
-last_modified_at: 2026-07-22 16:32:00 +1200
+last_modified_at: 2026-07-24 09:25:00 +1200
 ---
 
 These are a list of hacker/infosec cons and meetups in the NZ and Aussie Area.
 
 ## 2026
 
-| Name | Date | Location | CFP Open | CFP Close | Ticket On Sale |
-| ---- | ---- | -------- | -------- | --------- | -------------- |
-| [AppSec & DevSecOps Sydney](https://appsec-devsecops-syd.coriniumintelligence.com/) | 11 February | Sydney, AU | TBC | TBC | TBC |
-| [COSAC APAC](https://cosac.net/apac/) | 24 - 26 February| Melbourne, AU | Open | 11 July 2025 | Now |
-| [MRE](https://federation.edu.au/icsl/icsl-conferences/mre-2026) | 26 - 27 February | Ballarat, AU | TBC | TBC | TBC |
-| [BSides Ballarat](https://federation.edu.au/icsl/icsl-conferences/bsides-ballarat-2026) | 28 February - 1 March | Ballarat, AU | Closed | Closed | Now |
-| [Women in Cyber Security Summit](https://www.aisa.org.au/public/Public/Events/Conferences/AISA%20Conferences.aspx) | 12 March | Canberra, AU | TBC | TBC | TBC |
-| [NZ Cyber Security Summit](https://brightstar.co.nz/events/cybersecurity/) | 17 - 18 March | Wellington, NZ | TBC | TBC | Now |
-| [CrikeyCon](https://crikeycon.com/) | 21 March | Brisbane, AU | Open | 1 February 2026 | Now |
-| [BrisSEC](https://aisasecuritydays.com.au/) | 29 April | Brisbane, AU | TBC | TBC | TBC |
-| [Sunshine Coast Cybersecurity Conference](https://sunconqld.com/) | 9 May | Sunshine Coast, AU | Now | TBC | TBC |
-| [HVCKtheHills](https://hvckthehills.com/) | 10 May | Belgrave, AU | Now | TBC | Now |
-| [BSides Melbourne](https://www.bsidesmelbourne.com/) | 15 - 17 May | Melbourne, AU | 15 November | 15 February | 2 March |
-| [AUSCERT](https://conference.auscert.org.au/) | 19 - 22 May | Gold Coast, AU | Now | 27 January | Early 2026 |
-| [BSides Gold Coast](https://bsidesgoldie.com/) | 23 May | Gold Coast, AU | Now | 28 February | TBC |
-| [Cyber Connect](https://www.cyberconnect.org.au/) | 27 - 28 May | Canberra, AU | TBC | TBC | TBC |
-| [Sydney Sec](https://aisasecuritydays.com.au/) | 3 July | Sydney, AU | TBC | TBC | TBC |
-| [BSides Brisbane](https://bsidesbrisbane.com/) | 4 July | Brisbane, AU | Now | 24 May | Now |
-| [NZITF](https://nzitf.org.nz/conference-details) | 27 - 28 July | Wellington, NZ | Open | 6 April | TBC |
-| [BSides Adelaide](https://www.bsidesadelaide.com.au/) | 27 - 28 July | Adelaide, AU | TBC | TBC | Now |
-| [AdelaideSEC](https://aisasecuritydays.com.au/) | 21 August | Adelaide, AU | TBC | TBC | TBC |
-| [Realms of Cyber](https://www.realmsofcyber.com/) | 27 August | Brisbane, AU | Now | TBC | TBC |
-| [BSides ICS Downunder](https://www.linkedin.com/company/bsides-ics-downunder/posts/?feedView=all) | 28 - 29 August | Melbourne, AU | TBC | TBC | Now |
-| [OWASP NZ DAY](https://appsec.org.nz/conference/) | 1 - 4 September | Auckland, NZ | TBC | TBC | Now |
-| [Security 2 Cure](https://security2cure.com.au/) | 4 September | Brisbane, AU | TBC | TBC | TBC |
-| [Security Edge](https://adapt.com.au/events/security-edge/) | 8 September | Sydney, AU | TBC | TBC | TBC |
-| [DarwinSec](https://aisasecuritydays.com.au/darwinsec) | 10 September | Darwin, AU | TBC | TBC | TBC |
-| [Unprompted.au](https://www.unprompted.au/) | 18 - 19 September | Sydney, AU | Now | 31 July | Now |
-| [BSides Canberra](https://www.bsidesau.com.au/) | 24 - 26 September | Canberra, AU | 1 April | 30 June | Now |
-| [Emu Con](https://con.emu.team/) | 27 September | Canberra, AU | Now | 1 July | Now |
-| [AISA Australian Cyber Conference](https://www.cyberconference.com.au/) | 14 - 16 October | Melbourne, AU | 17 March | TBC | 17 March |
-| [Kākācon](https://www.xn--kkcon-fwab.nz/) | 29 Ocotober | Wellington, NZ | N/A | N/A | N/A |
-| [Kawaiicon](https://kawaiicon.org/) | 30 - 31 October | Wellington, NZ | Now | 7 August | Now |
-| [BSides Sydney](https://www.bsides.sydney/) | 7 November | Sydney, AU | Now | 15 July | Now |
-| [BSides Perth](https://bsidesperth.com.au/) | 13 - 14 November | Perth, AU | TBC | TBC | TBC |
-| [CISO NZ](https://ciso-nz.coriniumintelligence.com/) | 18 - 19 November | Auckland, NZ | Now | TBC | TBC |
-| [RooCon](https://x.com/RooCon_AU) | 18 - 19  November | Sydney, AU | TBC | End of August| TBC |
-| [ChCon](https://2026.chcon.nz/) | 18 - 20 November | Christchurch, NZ | 1 June | 15 September | 15 August |
-| [BaaCon](https://baacon.nz/) | 5 - 6 December | Rural Wairarapa, NZ | Now | 31 August | 1 July | 
+| Name | Date | Location | CFP Open | CFP Close | Ticket On Sale | AI Art |
+| ---- | ---- | -------- | -------- | --------- | -------------- | ------ |
+| [AppSec & DevSecOps Sydney](https://appsec-devsecops-syd.coriniumintelligence.com/) | 11 February | Sydney, AU | TBC | TBC | TBC | TBD |
+| [COSAC APAC](https://cosac.net/apac/) | 24 - 26 February| Melbourne, AU | Open | 11 July 2025 | Now | TBD |
+| [MRE](https://federation.edu.au/icsl/icsl-conferences/mre-2026) | 26 - 27 February | Ballarat, AU | TBC | TBC | TBC | TBD |
+| [BSides Ballarat](https://federation.edu.au/icsl/icsl-conferences/bsides-ballarat-2026) | 28 February - 1 March | Ballarat, AU | Closed | Closed | Now | TBD |
+| [Women in Cyber Security Summit](https://www.aisa.org.au/public/Public/Events/Conferences/AISA%20Conferences.aspx) | 12 March | Canberra, AU | TBC | TBC | TBC | TBD |
+| [NZ Cyber Security Summit](https://brightstar.co.nz/events/cybersecurity/) | 17 - 18 March | Wellington, NZ | TBC | TBC | Now | TBD |
+| [CrikeyCon](https://crikeycon.com/) | 21 March | Brisbane, AU | Open | 1 February 2026 | Now | TBD |
+| [BrisSEC](https://aisasecuritydays.com.au/) | 29 April | Brisbane, AU | TBC | TBC | TBC | TBD |
+| [Sunshine Coast Cybersecurity Conference](https://sunconqld.com/) | 9 May | Sunshine Coast, AU | Now | TBC | TBC | TBD |
+| [HVCKtheHills](https://hvckthehills.com/) | 10 May | Belgrave, AU | Now | TBC | Now | TBD |
+| [BSides Melbourne](https://www.bsidesmelbourne.com/) | 15 - 17 May | Melbourne, AU | 15 November | 15 February | 2 March | TBD |
+| [AUSCERT](https://conference.auscert.org.au/) | 19 - 22 May | Gold Coast, AU | Now | 27 January | Early 2026 | TBD |
+| [BSides Gold Coast](https://bsidesgoldie.com/) | 23 May | Gold Coast, AU | Now | 28 February | TBC | TBD |
+| [Cyber Connect](https://www.cyberconnect.org.au/) | 27 - 28 May | Canberra, AU | TBC | TBC | TBC | TBD |
+| [Sydney Sec](https://aisasecuritydays.com.au/) | 3 July | Sydney, AU | TBC | TBC | TBC | TBD |
+| [BSides Brisbane](https://bsidesbrisbane.com/) | 4 July | Brisbane, AU | Now | 24 May | Now | TBD |
+| [NZITF](https://nzitf.org.nz/conference-details) | 27 - 28 July | Wellington, NZ | Open | 6 April | TBC | TBD |
+| [BSides Adelaide](https://www.bsidesadelaide.com.au/) | 27 - 28 July | Adelaide, AU | TBC | TBC | Now | TBD |
+| [AdelaideSEC](https://aisasecuritydays.com.au/) | 21 August | Adelaide, AU | TBC | TBC | TBC | TBD |
+| [Realms of Cyber](https://www.realmsofcyber.com/) | 27 August | Brisbane, AU | Now | TBC | TBC | TBD |
+| [BSides ICS Downunder](https://www.linkedin.com/company/bsides-ics-downunder/posts/?feedView=all) | 28 - 29 August | Melbourne, AU | TBC | TBC | Now | TBD |
+| [OWASP NZ DAY](https://appsec.org.nz/conference/) | 1 - 4 September | Auckland, NZ | TBC | TBC | Now | TBD |
+| [Security 2 Cure](https://security2cure.com.au/) | 4 September | Brisbane, AU | TBC | TBC | TBC | TBD |
+| [Security Edge](https://adapt.com.au/events/security-edge/) | 8 September | Sydney, AU | TBC | TBC | TBC | TBD |
+| [DarwinSec](https://aisasecuritydays.com.au/darwinsec) | 10 September | Darwin, AU | TBC | TBC | TBC | TBD |
+| [Unprompted.au](https://www.unprompted.au/) | 18 - 19 September | Sydney, AU | Now | 31 July | Now | TBD |
+| [BSides Canberra](https://www.bsidesau.com.au/) | 24 - 26 September | Canberra, AU | 1 April | 30 June | Now | TBD |
+| [Emu Con](https://con.emu.team/) | 27 September | Canberra, AU | Now | 1 July | Now | TBD |
+| [AISA Australian Cyber Conference](https://www.cyberconference.com.au/) | 14 - 16 October | Melbourne, AU | 17 March | TBC | 17 March | TBD |
+| [Kākācon](https://www.xn--kkcon-fwab.nz/) | 29 Ocotober | Wellington, NZ | N/A | N/A | N/A | No - [Pepper Raccoon](https://pepperraccoon.com/) |
+| [Kawaiicon](https://kawaiicon.org/) | 30 - 31 October | Wellington, NZ | Now | 7 August | Now | TBD |
+| [BSides Sydney](https://www.bsides.sydney/) | 7 November | Sydney, AU | Now | 15 July | Now | TBD |
+| [BSides Perth](https://bsidesperth.com.au/) | 13 - 14 November | Perth, AU | TBC | TBC | TBC | TBD |
+| [CISO NZ](https://ciso-nz.coriniumintelligence.com/) | 18 - 19 November | Auckland, NZ | Now | TBC | TBC | TBD |
+| [RooCon](https://x.com/RooCon_AU) | 18 - 19  November | Sydney, AU | TBC | End of August| TBC | TBD |
+| [ChCon](https://2026.chcon.nz/) | 18 - 20 November | Christchurch, NZ | 1 June | 15 September | 15 August | TBD |
+| [BaaCon](https://baacon.nz/) | 5 - 6 December | Rural Wairarapa, NZ | Now | 31 August | 1 July | [No](https://baacon.nz/faq/#do-you-have-an-ai-policy) - [Pepper Raccoon](https://pepperraccoon.com/) | 
 
 ## 2027
 
 | Name | Date | Location | CFP Open | CFP Close | Ticket On Sale |
 | ---- | ---- | -------- | -------- | --------- | -------------- |
-| [COSAC APAC](https://cosac.net/apac/) | 23 - 25 February| Melbourne, AU | 1 May 2026 | TBC | TBC |
-| [CrikeyCon](https://crikeycon.com/) | 17 April | Brisbane, AU | TBC | TBC | TBC |
+| [COSAC APAC](https://cosac.net/apac/) | 23 - 25 February| Melbourne, AU | 1 May 2026 | TBC | TBC | TBD |
+| [CrikeyCon](https://crikeycon.com/) | 17 April | Brisbane, AU | TBC | TBC | TBC | TBD |
 
 ## Meetups
 
