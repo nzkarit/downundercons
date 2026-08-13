@@ -40,14 +40,14 @@ These are a list of hacker/infosec cons and meetups in the NZ and Aussie Area.
 | [BSides Canberra](https://www.bsidesau.com.au/) | 24 - 26 September | Canberra, AU | 1 April | 30 June | Now | TBD |
 | [Emu Con](https://con.emu.team/) | 27 September | Canberra, AU | Now | 1 July | Now | TBD |
 | [AISA Australian Cyber Conference](https://www.cyberconference.com.au/) | 14 - 16 October | Melbourne, AU | 17 March | TBC | 17 March | TBD |
-| [Kākācon](https://www.xn--kkcon-fwab.nz/) | 29 Ocotober | Wellington, NZ | N/A | N/A | N/A | No - [Pepper Raccoon](https://pepperraccoon.com/) |
+| [Kākācon](https://www.xn--kkcon-fwab.nz/) | 29 Ocotober | Wellington, NZ | N/A | N/A | N/A | No AI Art - Artist: [Pepper Raccoon](https://pepperraccoon.com/) |
 | [Kawaiicon](https://kawaiicon.org/) | 30 - 31 October | Wellington, NZ | Now | 7 August | Now | TBD |
 | [BSides Sydney](https://www.bsides.sydney/) | 7 November | Sydney, AU | Now | 15 July | Now | TBD |
 | [BSides Perth](https://bsidesperth.com.au/) | 13 - 14 November | Perth, AU | TBC | TBC | TBC | TBD |
 | [CISO NZ](https://ciso-nz.coriniumintelligence.com/) | 18 - 19 November | Auckland, NZ | Now | TBC | TBC | TBD |
 | [RooCon](https://x.com/RooCon_AU) | 18 - 19  November | Sydney, AU | TBC | End of August| TBC | TBD |
 | [ChCon](https://2026.chcon.nz/) | 18 - 20 November | Christchurch, NZ | 1 June | 15 September | 15 August | TBD |
-| [BaaCon](https://baacon.nz/) | 5 - 6 December | Rural Wairarapa, NZ | Now | 31 August | 1 July | [No](https://baacon.nz/faq/#do-you-have-an-ai-policy) - [Pepper Raccoon](https://pepperraccoon.com/) | 
+| [BaaCon](https://baacon.nz/) | 5 - 6 December | Rural Wairarapa, NZ | Now | 31 August | 1 July | [No AI Art](https://baacon.nz/faq/#do-you-have-an-ai-policy) - Artist: [Pepper Raccoon](https://pepperraccoon.com/) | 
 
 ## 2027
 
