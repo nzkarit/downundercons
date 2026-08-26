@@ -45,6 +45,7 @@ These are a list of hacker/infosec cons and meetups in the NZ and Aussie Area.
 | [BSides Sydney](https://www.bsides.sydney/) | 7 November | Sydney, AU | Now | 15 July | Now | TBD |
 | [BSides Perth](https://bsidesperth.com.au/) | 13 - 14 November | Perth, AU | TBC | TBC | TBC | TBD |
 | [CISO NZ](https://ciso-nz.coriniumintelligence.com/) | 18 - 19 November | Auckland, NZ | Now | TBC | TBC | TBD |
+| [PerthSec](https://aisasecuritydays.com.au/perthsec) | 18 November | Perth, AU | TBC | TBC | TBC | TBD |
 | [RooCon](https://x.com/RooCon_AU) | 18 - 19  November | Sydney, AU | TBC | End of August| TBC | TBD |
 | [ChCon](https://2026.chcon.nz/) | 18 - 20 November | Christchurch, NZ | 1 June | 15 September | 15 August | TBD |
 | [BaaCon](https://baacon.nz/) | 5 - 6 December | Rural Wairarapa, NZ | Now | 31 August | 1 July | [No AI Art](https://baacon.nz/faq/#do-you-have-an-ai-policy) - Artist: [Pepper Raccoon](https://pepperraccoon.com/) | 
@@ -55,6 +56,7 @@ These are a list of hacker/infosec cons and meetups in the NZ and Aussie Area.
 | ---- | ---- | -------- | -------- | --------- | -------------- | ------ |
 | [COSAC APAC](https://cosac.net/apac/) | 23 - 25 February| Melbourne, AU | 1 May 2026 | TBC | TBC | TBD |
 | [CrikeyCon](https://crikeycon.com/) | 17 April | Brisbane, AU | TBC | TBC | TBC | TBD |
+| [BSides Brisbane](https://bsidesbrisbane.com/) | 10 July | Brisbane, AU | TBC | TBC | Now | TBD |
 
 ## Meetups
 
