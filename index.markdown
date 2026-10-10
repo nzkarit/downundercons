@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Downunder Cons
-last_modified_at: 2026-08-14 11:19:00 +1200
+last_modified_at: 2026-10-10 17:29:00 +1300
 ---
 
 These are a list of hacker/infosec cons and meetups in the NZ and Aussie Area.
@@ -42,6 +42,7 @@ These are a list of hacker/infosec cons and meetups in the NZ and Aussie Area.
 | [AISA Australian Cyber Conference](https://www.cyberconference.com.au/) | 14 - 16 October | Melbourne, AU | 17 March | TBC | 17 March | TBD |
 | [Kākācon](https://www.xn--kkcon-fwab.nz/) | 29 Ocotober | Wellington, NZ | N/A | N/A | N/A | No AI Art - Artist: [Pepper Raccoon](https://pepperraccoon.com/) |
 | [Kawaiicon](https://kawaiicon.org/) | 30 - 31 October | Wellington, NZ | Now | 7 August | Now | TBD |
+| [NZ ICS/OT Cyber Summit](https://icscyber.org.nz/) | 4 November | Lower Hutt, NZ | Now | TBC | Now | TBD |
 | [BSides Sydney](https://www.bsides.sydney/) | 7 November | Sydney, AU | Now | 15 July | Now | TBD |
 | [BSides Perth](https://bsidesperth.com.au/) | 13 - 14 November | Perth, AU | TBC | TBC | TBC | TBD |
 | [CISO NZ](https://ciso-nz.coriniumintelligence.com/) | 18 - 19 November | Auckland, NZ | Now | TBC | TBC | TBD |
@@ -54,8 +55,10 @@ These are a list of hacker/infosec cons and meetups in the NZ and Aussie Area.
 
 | Name | Date | Location | CFP Open | CFP Close | Ticket On Sale | AI Art |
 | ---- | ---- | -------- | -------- | --------- | -------------- | ------ |
+| [AppSec & DevSecOps Sydney](https://appsec-devsecops-syd.coriniumintelligence.com/) | 10 February | Sydney, AU | TBC | TBC | TBC | TBD |
 | [COSAC APAC](https://cosac.net/apac/) | 23 - 25 February| Melbourne, AU | 1 May 2026 | TBC | TBC | TBD |
 | [CrikeyCon](https://crikeycon.com/) | 17 April | Brisbane, AU | TBC | TBC | TBC | TBD |
+| [AUSCERT](https://conference.auscert.org.au/) | 18 - 21 May | Gold Coast, AU | 16 November 2026 | 26 January 2027 | TBC | TBD |
 | [BSides Brisbane](https://bsidesbrisbane.com/) | 10 July | Brisbane, AU | TBC | TBC | Now | TBD |
 
 ## Meetups
