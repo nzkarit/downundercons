@@ -65,6 +65,7 @@ These are a list of hacker/infosec cons and meetups in the NZ and Aussie Area.
 
 | City | Name | Schedule |
 | ---- | ---- | -------- |
+| Auckland, NZ | [Offsec NZ Chapter](https://www.linkedin.com/groups/21180089/) | Quarterly |
 | Auckland, NZ | [ISIG](https://isig.org.nz/) | Last Tuesday |
 | Auckland, NZ | [HackTheBox NZ](https://www.meetup.com/hack-the-box-meetup-new-zealand/) | Monthly |
 | Auckland, NZ | [NZNWS](https://nznws.org/events-and-news/) | Sproadic |
