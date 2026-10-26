@@ -45,6 +45,7 @@ These are a list of hacker/infosec cons and meetups in the NZ and Aussie Area.
 | [NZ ICS/OT Cyber Summit](https://icscyber.org.nz/) | 4 November | Lower Hutt, NZ | Now | TBC | Now | TBD |
 | [BSides Sydney](https://www.bsides.sydney/) | 7 November | Sydney, AU | Now | 15 July | Now | TBD |
 | [BSides Perth](https://bsidesperth.com.au/) | 13 - 14 November | Perth, AU | TBC | TBC | TBC | TBD |
+| [Death Con Melbourne](https://deathcon.io/) | 13 - 14 November | Melbourne, AU | TBC | TBC | Now| TBD |
 | [CISO NZ](https://ciso-nz.coriniumintelligence.com/) | 18 - 19 November | Auckland, NZ | Now | TBC | TBC | TBD |
 | [PerthSec](https://aisasecuritydays.com.au/perthsec) | 18 November | Perth, AU | TBC | TBC | TBC | TBD |
 | [RooCon](https://x.com/RooCon_AU) | 18 - 19  November | Sydney, AU | TBC | End of August| TBC | TBD |
@@ -65,17 +66,17 @@ These are a list of hacker/infosec cons and meetups in the NZ and Aussie Area.
 
 | City | Name | Schedule |
 | ---- | ---- | -------- |
-| Auckland, NZ | [Offsec NZ Chapter](https://www.linkedin.com/groups/21180089/) | Quarterly |
-| Auckland, NZ | [ISIG](https://isig.org.nz/) | Last Tuesday |
 | Auckland, NZ | [HackTheBox NZ](https://www.meetup.com/hack-the-box-meetup-new-zealand/) | Monthly |
-| Auckland, NZ | [NZNWS](https://nznws.org/events-and-news/) | Sproadic |
+| Auckland, NZ | [ISIG](https://isig.org.nz/) | Last Tuesday |
+| Auckland, NZ | [NZNWS](https://nznws.org/events-and-news/) | Sporadic |
+| Auckland, NZ | [Offsec NZ Chapter](https://www.linkedin.com/groups/21180089/) | Quarterly |
 | Ballarat, AU | [Ballarat Cybersecurity Meetup](https://federation.edu.au/icsl/icsl-conferences/cybersecurity-meetup) | Sporadic | 
 | Brisbane, AU | [Brisbane Cyber Security Meetup](https://www.meetup.com/meetup-group-agfkzpmt/) | Monthly | 
 | Brisbane, AU | [OWASP](https://www.meetup.com/brisbane-owasp-meetup-group/) | Monthly |
 | Brisbane, AU | [SecTalks](https://www.meetup.com/SecTalks-Brisbane/) | Monthly |
 | Canberra, AU | [CSides](https://www.bsidesau.com.au/csides.html) | Monthly |
-| Christchurch, NZ | [ISIG](https://www.meetup.com/isig-christchurch-nz/) | Last Tuesday |
 | Christchurch, NZ | [HackTheBox NZ](https://www.meetup.com/hack-the-box-meetup-christchurch-nz/) | Monthly |
+| Christchurch, NZ | [ISIG](https://www.meetup.com/isig-christchurch-nz/) | Last Tuesday |
 | Dunedin, NZ | [ISIG](https://isig.org.nz/) | Last Thursday |
 | Gold Coast, AU | [SecTalks](https://www.meetup.com/sectalks-goldcoast/) | First Tuesday |
 | Hamilton, NZ | [ISIG](https://isig.org.nz/) | Last Thursday |
@@ -90,8 +91,6 @@ These are a list of hacker/infosec cons and meetups in the NZ and Aussie Area.
 | Wellington, NZ | [ISACA](https://engage.isaca.org/wellingtonchapter/home) | Sporadic |
 | Wellington, NZ | [ISIG](https://isig.org.nz/) | Last Thursday |
 | Wellington, NZ | [Sec for Devs](https://www.meetup.com/sec-for-devs/) | Last Tuesday |
-
-
 
 ## People
 This page has been setup by [Karit](https://www.karit.nz/).
