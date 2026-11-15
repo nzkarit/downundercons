@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Downunder Cons
-last_modified_at: 2026-11-09 12:55:00 +1300
+last_modified_at: 2026-11-16 11:25:00 +1300
 ---
 
 These are a list of hacker/infosec cons and meetups in the NZ and Aussie Area.
@@ -73,6 +73,7 @@ These are a list of hacker/infosec cons and meetups in the NZ and Aussie Area.
 | Auckland, NZ | [ISIG](https://isig.org.nz/) | Last Tuesday |
 | Auckland, NZ | [NZNWS](https://nznws.org/events-and-news/) | Sporadic |
 | Auckland, NZ | [Offsec NZ Chapter](https://www.linkedin.com/groups/21180089/) | Quarterly |
+| Australia | [AWSN Events](https://www.awsn.org.au/Web/Shared_Content/Events/Event-Listing.aspx) | Regular |
 | Ballarat, AU | [Ballarat Cybersecurity Meetup](https://federation.edu.au/icsl/icsl-conferences/cybersecurity-meetup) | Sporadic | 
 | Brisbane, AU | [Brisbane Cyber Security Meetup](https://www.meetup.com/meetup-group-agfkzpmt/) | Monthly | 
 | Brisbane, AU | [OWASP](https://www.meetup.com/brisbane-owasp-meetup-group/) | Monthly |
