@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Downunder Cons
-last_modified_at: 2026-11-16 11:25:00 +1300
+last_modified_at: 2026-11-17 09:30:00 +1300
 ---
 
 These are a list of hacker/infosec cons and meetups in the NZ and Aussie Area.
@@ -57,6 +57,8 @@ These are a list of hacker/infosec cons and meetups in the NZ and Aussie Area.
 | Name | Date | Location | CFP Open | CFP Close | Ticket On Sale | AI Art |
 | ---- | ---- | -------- | -------- | --------- | -------------- | ------ |
 | [AppSec & DevSecOps Sydney](https://appsec-devsecops-syd.coriniumintelligence.com/) | 10 February | Sydney, AU | TBC | TBC | TBC | TBD |
+| [MRE](https://www.federation.edu.au/research/our-research/research-teams/internet-commerce-security-laboratory/malware-and-reverse-engineering-conference/) | 25 - 26 February | Ballarat, AU | TBC | TBC | Now | TBD |
+| [BSides Ballarat](https://www.federation.edu.au/research/our-research/research-teams/internet-commerce-security-laboratory/bsides-ballarat-conference/) | 27 - 28 February | Ballarat, AU | TBC | TBC | Now | TBD |
 | [COSAC APAC](https://cosac.net/apac/) | 23 - 25 February| Melbourne, AU | 1 May 2026 | TBC | TBC | TBD |
 | [NZ Cyber Security Summit](https://brightstar.co.nz/events/cybersecurity/) | 22 - 23 March | Wellington, NZ | TBC | TBC | Now | TBD |
 | [CrikeyCon](https://crikeycon.com/) | 17 April | Brisbane, AU | Now | 11 January 2027 | TBC | TBD |
