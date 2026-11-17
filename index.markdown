@@ -65,7 +65,7 @@ These are a list of hacker/infosec cons and meetups in the NZ and Aussie Area.
 | [AUSCERT](https://conference.auscert.org.au/) | 18 - 21 May | Gold Coast, AU | 16 November 2026 | 26 January 2027 | TBC | TBD |
 | [BSides Brisbane](https://bsidesbrisbane.com/) | 10 July | Brisbane, AU | TBC | TBC | Now | TBD |
 | [Security Edge](https://adapt.com.au/events/security-edge/) | 14 September | Sydney, AU | TBC | TBC | TBC | TBD |
-| [BSides Canberra](https://www.bsidesau.com.au/) | 23 - 25 September | Canberra, AU |TBC | TBC | TBC | TBD |
+| [BSides Canberra](https://www.bsidesau.com.au/) | 23 - 25 September | Canberra, AU |TBC | TBC | 1 February | TBD |
 | [AISA Australian Cyber Conference](https://www.cyberconference.com.au/) | 18 - 20 October | Melbourne, AU | TBC | TBC | TBC | TBD |
 
 ## Meetups
