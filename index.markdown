@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Downunder Cons
-last_modified_at: 2026-11-17 09:35:00 +1300
+last_modified_at: 2026-11-20 22:35:00 +1300
 ---
 
 These are a list of hacker/infosec cons and meetups in the NZ and Aussie Area.
@@ -67,6 +67,7 @@ These are a list of hacker/infosec cons and meetups in the NZ and Aussie Area.
 | [Security Edge](https://adapt.com.au/events/security-edge/) | 14 September | Sydney, AU | TBC | TBC | TBC | TBD |
 | [BSides Canberra](https://www.bsidesau.com.au/) | 23 - 25 September | Canberra, AU |TBC | TBC | 1 February | TBD |
 | [AISA Australian Cyber Conference](https://www.cyberconference.com.au/) | 18 - 20 October | Melbourne, AU | TBC | TBC | TBC | TBD |
+| [ChCon](https://chcon.nz/) | 17 - 19 November | Christchurch, NZ | TBC | TBC | TBC | TBD |
 
 ## Meetups
 
