@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Downunder Cons
-last_modified_at: 2026-11-20 22:35:00 +1300
+last_modified_at: 2026-11-24 22:50:00 +1300
 ---
 
 These are a list of hacker/infosec cons and meetups in the NZ and Aussie Area.
@@ -49,7 +49,7 @@ These are a list of hacker/infosec cons and meetups in the NZ and Aussie Area.
 | [CISO NZ](https://ciso-nz.coriniumintelligence.com/) | 18 - 19 November | Auckland, NZ | Now | TBC | TBC | TBD |
 | [PerthSec](https://aisasecuritydays.com.au/perthsec) | 18 November | Perth, AU | TBC | TBC | TBC | TBD |
 | [RooCon](https://x.com/RooCon_AU) | 18 - 19  November | Sydney, AU | TBC | End of August| TBC | TBD |
-| [ChCon](https://2026.chcon.nz/) | 18 - 20 November | Christchurch, NZ | 1 June | 15 September | 15 August | TBD |
+| [CHCon](https://2026.chcon.nz/) | 18 - 20 November | Christchurch, NZ | 1 June | 15 September | 15 August | TBD |
 | [BaaCon](https://baacon.nz/) | 5 - 6 December | Rural Wairarapa, NZ | Now | 31 August | 1 July | [No AI Art](https://baacon.nz/faq/#do-you-have-an-ai-policy) - Artist: [Pepper Raccoon](https://pepperraccoon.com/) | 
 
 ## 2027
@@ -65,9 +65,10 @@ These are a list of hacker/infosec cons and meetups in the NZ and Aussie Area.
 | [AUSCERT](https://conference.auscert.org.au/) | 18 - 21 May | Gold Coast, AU | 16 November 2026 | 26 January 2027 | TBC | TBD |
 | [BSides Brisbane](https://bsidesbrisbane.com/) | 10 July | Brisbane, AU | TBC | TBC | Now | TBD |
 | [Security Edge](https://adapt.com.au/events/security-edge/) | 14 September | Sydney, AU | TBC | TBC | TBC | TBD |
+| [Unprompted.au](https://www.unprompted.au/) | 17 - 18 September | Sydney, AU | TBC | TBC | TBC | TBD |
 | [BSides Canberra](https://www.bsidesau.com.au/) | 23 - 25 September | Canberra, AU |TBC | TBC | 1 February | TBD |
 | [AISA Australian Cyber Conference](https://www.cyberconference.com.au/) | 18 - 20 October | Melbourne, AU | TBC | TBC | TBC | TBD |
-| [ChCon](https://chcon.nz/) | 17 - 19 November | Christchurch, NZ | TBC | TBC | TBC | TBD |
+| [CHCon](https://chcon.nz/) | 17 - 19 November | Christchurch, NZ | TBC | TBC | TBC | TBD |
 
 ## Meetups
 
