@@ -1,7 +1,7 @@
 /*
   X-Frame-Options: DENY
   X-XSS-Protection: 1; mode=block
-  Referrer-Policy: no-referrer
+  Referrer-Policy: origin
   X-Content-Type-Options: nosniff
   Content-Security-Policy: img-src 'self'; upgrade-insecure-requests
   Cross-Origin-Embedder-Policy: require-corp;
